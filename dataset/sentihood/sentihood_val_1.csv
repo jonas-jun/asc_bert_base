@@ -1,0 +1,839 @@
+,re_idx,idx,sentence,category,target,polarity
+0,0,302, LOCATION1 is just a normal area that happens to have an alternative market,shopping,LOCATION1,Positive
+9,9,662,", LOCATION1 , LOCATION2 are all good places to stay and within 35 minutes by fast train from Central London",transit-location,LOCATION1,Positive
+10,9,662,", LOCATION1 , LOCATION2 are all good places to stay and within 35 minutes by fast train from Central London",transit-location,LOCATION2,Positive
+18,17,292,A Brazilian man was shot there 3 years ago in LOCATION1 station by a policeman i think he was a suspected terrorist of the 7/7 bombings on London transport,safety,LOCATION1,Negative
+19,18,78,"A friend of mine lived in LOCATION1 and she liked it, though other people have told me it's a bit rough",safety,LOCATION1,Negative
+20,18,78,"A friend of mine lived in LOCATION1 and she liked it, though other people have told me it's a bit rough",live,LOCATION1,Positive
+21,18,78,"A friend of mine lived in LOCATION1 and she liked it, though other people have told me it's a bit rough",general,LOCATION1,Positive
+22,19,105,"A good place to live would be LOCATION1 which is fairly central and not as expensive as some other areas but full of bars, pubs and restaurants",price,LOCATION1,Positive
+23,19,105,"A good place to live would be LOCATION1 which is fairly central and not as expensive as some other areas but full of bars, pubs and restaurants",transit-location,LOCATION1,Positive
+24,19,105,"A good place to live would be LOCATION1 which is fairly central and not as expensive as some other areas but full of bars, pubs and restaurants",live,LOCATION1,Positive
+25,19,105,"A good place to live would be LOCATION1 which is fairly central and not as expensive as some other areas but full of bars, pubs and restaurants",dining,LOCATION1,Positive
+26,19,105,"A good place to live would be LOCATION1 which is fairly central and not as expensive as some other areas but full of bars, pubs and restaurants",nightlife,LOCATION1,Positive
+28,21,323,"A must see place is LOCATION1 what with the street entertainers good places to eat, a great market and some nice places to drink",shopping,LOCATION1,Positive
+29,21,323,"A must see place is LOCATION1 what with the street entertainers good places to eat, a great market and some nice places to drink",touristy,LOCATION1,Positive
+30,21,323,"A must see place is LOCATION1 what with the street entertainers good places to eat, a great market and some nice places to drink",dining,LOCATION1,Positive
+32,23,610,"Additionally , the School of Oriental and African Studies ( SOAS ) has a large number of students from Asian backgrounds and countries and their student union regularly holds and hosts events to which they welcome non-SOAS students : The above website also has some links under ` Housing and Accomodation ' for affordable housing options for all students LOCATION1 can be a nice area - near the cemetery is good , but maybe too expensive for you",price,LOCATION1,Positive
+35,26,31,All have their share of Bars and Night life etc but for this I think LOCATION1 would be my favourite,nightlife,LOCATION1,Positive
+36,27,112,All in all LOCATION1 one of the better suburbs of London though can be expensive,general,LOCATION1,Positive
+37,27,112,All in all LOCATION1 one of the better suburbs of London though can be expensive,price,LOCATION1,Negative
+39,29,419,"All told , if money was no object then LOCATION1 is the area of London I would choose to live in",price,LOCATION1,Negative
+40,29,419,"All told , if money was no object then LOCATION1 is the area of London I would choose to live in",live,LOCATION1,Positive
+43,32,348,"Also police stats show that LOCATION1, which includes most of these areas, scores pretty highly on numbers of reported racist crimes",safety,LOCATION1,Negative
+44,33,709,Also there 's LOCATION2 right next to it - also very good for rent rates - check it out LOCATION1 is nice but quiete area,general,LOCATION1,Positive
+45,33,709,Also there 's LOCATION2 right next to it - also very good for rent rates - check it out LOCATION1 is nice but quiete area,quiet,LOCATION1,Positive
+46,33,709,Also there 's LOCATION2 right next to it - also very good for rent rates - check it out LOCATION1 is nice but quiete area,price,LOCATION2,Positive
+47,34,679,"Also, I would suggest LOCATION1/LOCATION2",general,LOCATION2,Positive
+48,34,679,"Also, I would suggest LOCATION1/LOCATION2",general,LOCATION1,Positive
+50,36,655,"Also, the areas of LOCATION2 and LOCATION1 in NW London can be a bit unsafe, but you are unlikely to go to those anyway",safety,LOCATION2,Negative
+51,36,655,"Also, the areas of LOCATION2 and LOCATION1 in NW London can be a bit unsafe, but you are unlikely to go to those anyway",safety,LOCATION1,Negative
+54,39,734,"Although i think LOCATION1 is quite expensive, a hot spot for the rich and succesfulLOCATION2,Highly sought-after area, housing is pricey, large Jewish population",general,LOCATION2,Positive
+55,39,734,"Although i think LOCATION1 is quite expensive, a hot spot for the rich and succesfulLOCATION2,Highly sought-after area, housing is pricey, large Jewish population",price,LOCATION2,Negative
+56,39,734,"Although i think LOCATION1 is quite expensive, a hot spot for the rich and succesfulLOCATION2,Highly sought-after area, housing is pricey, large Jewish population",price,LOCATION1,Negative
+57,39,734,"Although i think LOCATION1 is quite expensive, a hot spot for the rich and succesfulLOCATION2,Highly sought-after area, housing is pricey, large Jewish population",multicultural,LOCATION2,Positive
+58,40,684,"Although there are nice sections of LOCATION2 with great amenities, LOCATION1 seems to be the up and coming nicer areas",general,LOCATION2,Positive
+59,40,684,"Although there are nice sections of LOCATION2 with great amenities, LOCATION1 seems to be the up and coming nicer areas",general,LOCATION1,Positive
+62,43,117,And i agree the Dublin Castle is one of my favorite pubs in LOCATION1,nightlife,LOCATION1,Positive
+63,44,234,"And you ca n't talk with the police because they are all corrupt London is the most expensive London in the UK and apartments are mostly quite expensive , but if you really want to move here , LOCATION1 is probably the least expensive part of town",price,LOCATION1,Positive
+64,45,509,"Anyway , LOCATION1 is your best bet for securealthough completely soul-less and sterile",general,LOCATION1,Negative
+65,45,509,"Anyway , LOCATION1 is your best bet for securealthough completely soul-less and sterile",safety,LOCATION1,Positive
+67,47,671,Areas such as LOCATION1 or LOCATION2 are far more pleasant,general,LOCATION2,Positive
+68,47,671,Areas such as LOCATION1 or LOCATION2 are far more pleasant,general,LOCATION1,Positive
+69,48,499,"As for LOCATION1, there isshopping Street and easy access to the London or Westend",transit-location,LOCATION1,Positive
+70,48,499,"As for LOCATION1, there isshopping Street and easy access to the London or Westend",shopping,LOCATION1,Positive
+71,49,37,As for the other places they've listed then they're all good apart from LOCATION1,general,LOCATION1,Negative
+72,50,443,As to the getting mugged and killed - just avoid LOCATION1,safety,LOCATION1,Negative
+73,50,443,As to the getting mugged and killed - just avoid LOCATION1,general,LOCATION1,Negative
+77,54,389,Avoid LOCATION1 - it's super pricey,general,LOCATION1,Negative
+78,54,389,Avoid LOCATION1 - it's super pricey,price,LOCATION1,Negative
+79,55,408,Avoid LOCATION1 though,general,LOCATION1,Negative
+80,56,289,"Basically if your heading for the LOCATION1, buy or rent on the river, there tends to be plenty of police around so the crime rate is reasonably good",safety,LOCATION1,Positive
+82,58,317,"Because it is close to London , has good quality housing and good schools , LOCATION1 is an expensive area to live",transit-location,LOCATION1,Positive
+83,58,317,"Because it is close to London , has good quality housing and good schools , LOCATION1 is an expensive area to live",price,LOCATION1,Negative
+85,60,669,Best bet is around LOCATION2 and LOCATION1 area in the northwest corner really nice I used to know someone who lived there,general,LOCATION1,Positive
+86,60,669,Best bet is around LOCATION2 and LOCATION1 area in the northwest corner really nice I used to know someone who lived there,general,LOCATION2,Positive
+89,63,382,But basically people live where they can affordLOCATION1 Rich and Famous,price,LOCATION1,Negative
+90,64,498,"But on the upside, some parts of LOCATION1 are really lovely , there are excellent bus services to anywhere you need to go",transit-location,LOCATION1,Positive
+91,64,498,"But on the upside, some parts of LOCATION1 are really lovely , there are excellent bus services to anywhere you need to go",general,LOCATION1,Positive
+92,65,345,"But some parts are e g LOCATION1, however once again, very expensive and lots of snobbery going on there",price,LOCATION1,Negative
+93,66,274,"But to the north and east, LOCATION1 is surprisingly peaceful and leafy",green-nature,LOCATION1,Positive
+94,66,274,"But to the north and east, LOCATION1 is surprisingly peaceful and leafy",quiet,LOCATION1,Positive
+95,67,33,"But, there are some very famous places LOCATION1that are so well known that they get a great many tourists",touristy,LOCATION1,Positive
+98,70,190,CheersCheck out LOCATION1 in LOCATION2,general,LOCATION1,Positive
+99,71,648,Choose LOCATION2 or LOCATION1 if you want to hang out with toffs or famous people,general,LOCATION1,Positive
+100,71,648,Choose LOCATION2 or LOCATION1 if you want to hang out with toffs or famous people,general,LOCATION2,Positive
+102,73,461,Communication wise it's the best cause in the LOCATION1 tube station there r two main lines,transit-location,LOCATION1,Positive
+103,74,540,Consider trendy LOCATION1 (W11) in west London,general,LOCATION1,Positive
+104,75,220,"Considering that it is part of a major London LOCATION1 is pretty low on the crime scale, but it is quite expensive",price,LOCATION1,Negative
+105,75,220,"Considering that it is part of a major London LOCATION1 is pretty low on the crime scale, but it is quite expensive",safety,LOCATION1,Positive
+106,76,495,"Do n't worry , LOCATION1 is not that bad",general,LOCATION1,Positive
+115,85,604,"Fabric: A massive club in LOCATION1, playing house, techno and electro on a Saturday",nightlife,LOCATION1,Positive
+116,86,592,Find a place in LOCATION1 - right now the price of houses is depressed,price,LOCATION1,Positive
+117,87,462,"Finnaly , LOCATION1 is n't too bad , particularly around the Furzedown area - although again , prices are starting to creep up",general,LOCATION1,Positive
+118,87,462,"Finnaly , LOCATION1 is n't too bad , particularly around the Furzedown area - although again , prices are starting to creep up",price,LOCATION1,Negative
+119,88,455,"First of all , yes LOCATION1 is extremely rough",safety,LOCATION1,Negative
+120,89,153,For a poor area think no further than LOCATION1 -,general,LOCATION1,Negative
+121,90,127,"For evening entertainment besides bars, I reccommend (if you have time) a concert in LOCATION1 or the Comedy Store",nightlife,LOCATION1,Positive
+123,92,195,For great cocktails go to St Germain just outside LOCATION1 tube they have happy hour so 2 for 7 and are some of hte nicest in London,nightlife,LOCATION1,Positive
+125,94,240,For that money you can live around LOCATION1,price,LOCATION1,Negative
+127,96,549,Frequent trains from LOCATION1 Station to LOCATION2 in central London take 18 minutes,transit-location,LOCATION1,Positive
+128,97,646,From LOCATION2 you get easy access by bus to LOCATION1 for Tube (District Line),transit-location,LOCATION2,Positive
+129,97,646,From LOCATION2 you get easy access by bus to LOCATION1 for Tube (District Line),transit-location,LOCATION1,Positive
+131,99,686,"Further away there is LOCATION2 and LOCATION1, both a bit cheaper",price,LOCATION1,Positive
+132,99,686,"Further away there is LOCATION2 and LOCATION1, both a bit cheaper",transit-location,LOCATION1,Negative
+133,99,686,"Further away there is LOCATION2 and LOCATION1, both a bit cheaper",transit-location,LOCATION2,Negative
+134,99,686,"Further away there is LOCATION2 and LOCATION1, both a bit cheaper",price,LOCATION2,Positive
+136,101,553,"Get on the tube again (or bus) and continue EastKeep going until LOCATION1That will be the cheapest ""convenient"" areas of London",price,LOCATION1,Positive
+139,104,63,Good luck and god bless LOCATION1 is in my opinion is alot nicer than LOCATION1,general,LOCATION1,Positive
+141,106,470,Guy 's Hospital I think LOCATION1 ( N7 ) is getting expensive for very solid reasons,price,LOCATION1,Negative
+142,107,41,Having said that though LOCATION1 is still a safe area there are always lots of Police around and I have never once felt unsafe in the area even alone at 1 o'clock in the morning,safety,LOCATION1,Positive
+143,108,304,"Head for LOCATION1, there is a market there but there are also loads of clothes and shoe shops, everything from Ted Baker, LK Bennett and Reiss to Oasis and Monsoon",shopping,LOCATION1,Positive
+145,110,54,Here LOCATION1 would be best as that is on the direct line to Rochester,general,LOCATION1,Positive
+146,110,54,Here LOCATION1 would be best as that is on the direct line to Rochester,transit-location,LOCATION1,Positive
+150,114,336,Hope that helpsLOCATION1 is a nice place to live,live,LOCATION1,Positive
+152,116,735,"However LOCATION2 and LOCATION1 are more affordable , plus you feel like you 're out of the London so they 're a bit more relaxed",price,LOCATION2,Positive
+153,116,735,"However LOCATION2 and LOCATION1 are more affordable , plus you feel like you 're out of the London so they 're a bit more relaxed",quiet,LOCATION1,Positive
+154,116,735,"However LOCATION2 and LOCATION1 are more affordable , plus you feel like you 're out of the London so they 're a bit more relaxed",price,LOCATION1,Positive
+155,116,735,"However LOCATION2 and LOCATION1 are more affordable , plus you feel like you 're out of the London so they 're a bit more relaxed",quiet,LOCATION2,Positive
+156,117,271,"However, I don't like LOCATION1",general,LOCATION1,Negative
+158,119,640,"However, the outer suburbs of SE London (LOCATION1 and LOCATION2) are quite pleasantIt will be absolutely fine",general,LOCATION2,Positive
+159,119,640,"However, the outer suburbs of SE London (LOCATION1 and LOCATION2) are quite pleasantIt will be absolutely fine",general,LOCATION1,Positive
+160,120,487,"However, you can also consider LOCATION1, where youd find various detached villas with large gardens",general,LOCATION1,Positive
+161,121,314,"I 've heard a lot of people saying that LOCATION1 is dangerous , is that true",safety,LOCATION1,Negative
+162,122,222,I also know a couple of people who are moving to LOCATION1and they rate it highly,general,LOCATION1,Positive
+163,123,642,I also know lots of people in areas like LOCATION2 and LOCATION1 who never once felt unsafe when they lived there,safety,LOCATION2,Positive
+164,123,642,I also know lots of people in areas like LOCATION2 and LOCATION1 who never once felt unsafe when they lived there,safety,LOCATION1,Positive
+165,124,670,"I also like LOCATION2 and LOCATION1 , it 's very vibrant",general,LOCATION1,Positive
+166,124,670,"I also like LOCATION2 and LOCATION1 , it 's very vibrant",general,LOCATION2,Positive
+168,126,533,I always go shopping and to the cinema in LOCATION1,shopping,LOCATION1,Positive
+169,127,95,I always wanted to live around LOCATION1,live,LOCATION1,Positive
+172,130,700,"I am afraid no part of London in particular is not a safe place to live , especially for a 20 year old woman , but in comparison , South London , and LOCATION2 have higher crime rates and LOCATION1 has the highest rate of crime and it has been named `` The Murder Capital of Europe",safety,LOCATION1,Negative
+173,130,700,"I am afraid no part of London in particular is not a safe place to live , especially for a 20 year old woman , but in comparison , South London , and LOCATION2 have higher crime rates and LOCATION1 has the highest rate of crime and it has been named `` The Murder Capital of Europe",safety,LOCATION2,Negative
+175,132,267,I can't really complain about LOCATION1 (bit boring no entertainment),nightlife,LOCATION1,Negative
+176,132,267,I can't really complain about LOCATION1 (bit boring no entertainment),general,LOCATION1,Positive
+177,133,340,"I can't understand the thumbs down for LOCATION1, that area is having lots of money thrown at it right now",general,LOCATION1,Positive
+179,135,91,"I come from LOCATION1 which is a similarly impoverished London borough in fact, it has a worse reputation than LOCATION1",general,LOCATION1,Negative
+184,140,50,I don't know LOCATION2 but LOCATION1 is one of the nicest areas of London,general,LOCATION1,Positive
+186,142,60,I dunno but theres alot of Mediterranean people in North LOCATION1,multicultural,LOCATION1,Positive
+187,143,701,I guess I lived in LOCATION1 and it wasnt the best but the public transport in LOCATION2 is the best,transit-location,LOCATION2,Positive
+188,143,701,I guess I lived in LOCATION1 and it wasnt the best but the public transport in LOCATION2 is the best,general,LOCATION1,Negative
+191,146,502,I have lived in LOCATION1 for 20+ years and never had a problem day or night,safety,LOCATION1,Positive
+193,148,285,"I have lived in big cities before so will not be shocked by a lot of stuff , just wanted to get a feel for the okayish places LOCATION1 is good , its close enough to the London but far enough to be away from too much of the noise and action if you end up in a coucil estate they are n't actually too bad , it 's quiet family based , if you are able to have the attitude of i shut my front door i shut everyone and everything else out you 'll be fine",general,LOCATION1,Positive
+194,148,285,"I have lived in big cities before so will not be shocked by a lot of stuff , just wanted to get a feel for the okayish places LOCATION1 is good , its close enough to the London but far enough to be away from too much of the noise and action if you end up in a coucil estate they are n't actually too bad , it 's quiet family based , if you are able to have the attitude of i shut my front door i shut everyone and everything else out you 'll be fine",transit-location,LOCATION1,Positive
+195,149,543,"I have plenty of friends from LA who live in LOCATION1 and love it, but everyone is different of course",live,LOCATION1,Positive
+196,150,326,I have read that LOCATION1 village is a nice area,general,LOCATION1,Positive
+198,152,527,I heard from a distant school friend that LOCATION1 ( which is presumably near this address ) is 60 % or more Bangladeshi and that it 's not the safest area,safety,LOCATION1,Negative
+199,152,527,I heard from a distant school friend that LOCATION1 ( which is presumably near this address ) is 60 % or more Bangladeshi and that it 's not the safest area,multicultural,LOCATION1,Positive
+200,153,403,I know I learned thencheapest area is London borough of LOCATION1,price,LOCATION1,Positive
+201,154,520,I know a bit about LOCATION1 as I shopped there loads but as an area to live in not sure,shopping,LOCATION1,Positive
+202,155,303,I know a lot of people that live in LOCATION1 and find it easy to get into central London,transit-location,LOCATION1,Positive
+203,156,650,I like LOCATION2 and LOCATION1 etc,general,LOCATION1,Positive
+204,156,650,I like LOCATION2 and LOCATION1 etc,general,LOCATION2,Positive
+206,158,129,"I live LOCATION1, and I love itUsed to live in LOCATION1",live,LOCATION1,Positive
+207,158,129,"I live LOCATION1, and I love itUsed to live in LOCATION1",general,LOCATION1,Positive
+208,159,21,I live in LOCATION1 and I have a wonderful street with great neighbours,live,LOCATION1,Positive
+209,159,21,I live in LOCATION1 and I have a wonderful street with great neighbours,general,LOCATION1,Positive
+210,160,744,I live in LOCATION1 and it's nice and it's cheapish but avoid the rest of LOCATION2,price,LOCATION1,Positive
+211,160,744,I live in LOCATION1 and it's nice and it's cheapish but avoid the rest of LOCATION2,general,LOCATION1,Positive
+212,160,744,I live in LOCATION1 and it's nice and it's cheapish but avoid the rest of LOCATION2,general,LOCATION2,Negative
+213,161,356,I live in LOCATION1 and it's not ALL 'grotty',general,LOCATION1,Positive
+214,162,62,"I live in LOCATION1 and my partner was born here, we want OUT",live,LOCATION1,Negative
+215,163,168,I live in LOCATION1 and to be honest there's no pubs or clubs round here,nightlife,LOCATION1,Negative
+217,165,309,I live in LOCATION1 and work at London Bridge Railway Stationlove it,general,LOCATION1,Positive
+218,165,309,I live in LOCATION1 and work at London Bridge Railway Stationlove it,live,LOCATION1,Positive
+219,166,623,I live in LOCATION1 area and it is really a great place,general,LOCATION1,Positive
+221,168,338,I live in LOCATION1 which is at the end of the Jubilee Line,transit-location,LOCATION1,Positive
+222,169,537,"I live in LOCATION1, and I really like it",live,LOCATION1,Positive
+223,169,537,"I live in LOCATION1, and I really like it",general,LOCATION1,Positive
+224,170,167,"I live in LOCATION1, which would be characterised by having a lot of greenery (for Zone 2) and seems to attract lots of twenty-something professional types",green-nature,LOCATION1,Positive
+226,172,265,I live in a middle class outer London suburb called LOCATION1 in the south of the Greater London area,transit-location,LOCATION1,Negative
+228,174,132,I live near LOCATION1 and I have to say that it's a pretty nice area,general,LOCATION1,Positive
+229,175,6,I live near the LOCATION1; have never felt unsafe,safety,LOCATION1,Positive
+230,176,580,"I live pretty close to LOCATION1 and it is a good area to live in - good transport, lots of cafes, close to all sorts of amenities",transit-location,LOCATION1,Positive
+231,176,580,"I live pretty close to LOCATION1 and it is a good area to live in - good transport, lots of cafes, close to all sorts of amenities",live,LOCATION1,Positive
+232,177,87,I live right near LOCATION1 and have never had any problems even at night,safety,LOCATION1,Positive
+233,178,681,I lived in LOCATION1 and LOCATION2 and had no trouble at all,safety,LOCATION1,Positive
+234,178,681,I lived in LOCATION1 and LOCATION2 and had no trouble at all,safety,LOCATION2,Positive
+235,179,103,I lived in LOCATION1 for a couple of yearsbut found the people to be not too friendly and didn'r feel safe there,safety,LOCATION1,Negative
+237,181,410,"I lived in LOCATION1, and I had two bikes stolen",safety,LOCATION1,Negative
+238,182,739,I lived in London for 6 months and I would reccommend living in LOCATION2 or LOCATION1,live,LOCATION1,Positive
+239,182,739,I lived in London for 6 months and I would reccommend living in LOCATION2 or LOCATION1,live,LOCATION2,Positive
+240,183,449,I lived in SE London (LOCATION1) for 11 years and most of the people there are white,multicultural,LOCATION1,Negative
+241,184,564,I love LOCATION1,general,LOCATION1,Positive
+242,185,412,I meant to say as well I was offered LOCATION1 but was told that this place is really violent,safety,LOCATION1,Negative
+243,186,488,I prefer LOCATION1,general,LOCATION1,Positive
+244,187,565,"I really do not believe that LOCATION1 , although working class , has a higher crime rate than any other East End areas",safety,LOCATION1,Positive
+245,188,704,"I really like the fact that LOCATION2 is a beautiful place, especially LOCATION1",general,LOCATION1,Positive
+246,188,704,"I really like the fact that LOCATION2 is a beautiful place, especially LOCATION1",general,LOCATION2,Positive
+247,189,268,I reckon LOCATION1 offers some really great value accommodation and actually I havnt heard anything negative about it,general,LOCATION1,Positive
+248,189,268,I reckon LOCATION1 offers some really great value accommodation and actually I havnt heard anything negative about it,price,LOCATION1,Positive
+249,190,424,I recommend LOCATION1,general,LOCATION1,Positive
+250,191,313,"I rent a nice one bedroom flat in SE London near LOCATION1 for 700 per month, downside is that it's not near the tube",transit-location,LOCATION1,Negative
+252,193,152,"I say LOCATION1 as their is a large community of expats from Australia , New Zealand and South Africa there making for an interesting and varied range of people along with the local English people",multicultural,LOCATION1,Positive
+254,195,0,I stayed in LOCATION1and loved the area,general,LOCATION1,Positive
+255,196,713,I suggest looking for areas a bit further out in LOCATION2 or LOCATION1,transit-location,LOCATION1,Positive
+256,196,713,I suggest looking for areas a bit further out in LOCATION2 or LOCATION1,transit-location,LOCATION2,Positive
+257,197,690,"I suggest the LOCATION1 area, especially around LOCATION2",general,LOCATION2,Positive
+258,197,690,"I suggest the LOCATION1 area, especially around LOCATION2",general,LOCATION1,Positive
+259,198,398,I think LOCATION1 ( N7 ) is getting expensive for very solid reasons,price,LOCATION1,Negative
+260,199,535,I think you should not hesitate about all this stuff and go ahead with it I worked extensively around London and I would agree that LOCATION1 would not be my first choice to live,live,LOCATION1,Negative
+261,200,9,I used to live in LOCATION1 (Nth London and before it changed its name) - it's now a slum,general,LOCATION1,Negative
+262,201,463,"I used to live in LOCATION1,which is near LOCATION2 and it wasn't too bad really",general,LOCATION1,Positive
+265,204,572,"I used to work in LOCATION1 and it was OKit's fairly diverse as there are a lot of students in the area attending Queen Mary's, and the locals are either asian (mostly bangladeshi I think) or proper cockneys :0)",general,LOCATION1,Positive
+266,204,572,"I used to work in LOCATION1 and it was OKit's fairly diverse as there are a lot of students in the area attending Queen Mary's, and the locals are either asian (mostly bangladeshi I think) or proper cockneys :0)",multicultural,LOCATION1,Positive
+268,206,180,"I was looking at LOCATION1, since they have a lot of cheap places there",price,LOCATION1,Positive
+269,207,26,"I wasn't very impressed with LOCATION1, the main street looked dirty",general,LOCATION1,Negative
+274,212,676,"I would recommend you carefully consider LOCATION2 and LOCATION1 when you make your choice, as these are known to be peaceful and well maintained boroughs",general,LOCATION2,Positive
+275,212,676,"I would recommend you carefully consider LOCATION2 and LOCATION1 when you make your choice, as these are known to be peaceful and well maintained boroughs",quiet,LOCATION2,Positive
+276,212,676,"I would recommend you carefully consider LOCATION2 and LOCATION1 when you make your choice, as these are known to be peaceful and well maintained boroughs",quiet,LOCATION1,Positive
+277,212,676,"I would recommend you carefully consider LOCATION2 and LOCATION1 when you make your choice, as these are known to be peaceful and well maintained boroughs",general,LOCATION1,Positive
+278,213,59,"I would say LOCATION1, probably not the nicest area in terms of beauty but it is relatively easy to get about from there, not too far away from central London",transit-location,LOCATION1,Positive
+279,213,59,"I would say LOCATION1, probably not the nicest area in terms of beauty but it is relatively easy to get about from there, not too far away from central London",general,LOCATION1,Negative
+280,214,523,I would say that you'd be safer on the opposite side ofLOCATION2 - an area like LOCATION1,safety,LOCATION1,Positive
+281,215,747,I would stay away from LOCATION2 or LOCATION1 just because I have heard of people being bothered quite a bit there,general,LOCATION2,Negative
+282,215,747,I would stay away from LOCATION2 or LOCATION1 just because I have heard of people being bothered quite a bit there,safety,LOCATION2,Negative
+283,215,747,I would stay away from LOCATION2 or LOCATION1 just because I have heard of people being bothered quite a bit there,safety,LOCATION1,Negative
+284,215,747,I would stay away from LOCATION2 or LOCATION1 just because I have heard of people being bothered quite a bit there,general,LOCATION1,Negative
+285,216,253,I would suggest going to LOCATION1 on Sunday for breakfast/lunch around 12ish,dining,LOCATION1,Positive
+286,217,86,I wouldn't advise you walking alone late at night in the LOCATION1 areathere's quite a lot of prostitutes in that area in the evening and you don't want to get accosted,safety,LOCATION1,Negative
+287,218,241,I wouldn't even visit never mind live in LOCATION1 personally speaking,general,LOCATION1,Negative
+288,218,241,I wouldn't even visit never mind live in LOCATION1 personally speaking,live,LOCATION1,Negative
+289,219,160,I wouldn't live in the centre of LOCATION1 itself as it is really busy and noisy,quiet,LOCATION1,Negative
+290,219,160,I wouldn't live in the centre of LOCATION1 itself as it is really busy and noisy,live,LOCATION1,Negative
+291,220,576,"I'd go to LOCATION1 - its an up and coming area, has some great bars / restaurants, and excellent food markets",general,LOCATION1,Positive
+292,220,576,"I'd go to LOCATION1 - its an up and coming area, has some great bars / restaurants, and excellent food markets",dining,LOCATION1,Positive
+293,220,576,"I'd go to LOCATION1 - its an up and coming area, has some great bars / restaurants, and excellent food markets",nightlife,LOCATION1,Positive
+295,222,585,I'd prefer somewhere like LOCATION1,general,LOCATION1,Positive
+297,224,589,I'll go with LOCATION1,general,LOCATION1,Positive
+300,227,53,I've been too all of those places and my favorite is LOCATION1 it's really lovely,general,LOCATION1,Positive
+301,228,447,I've lived in LOCATION1 all my life and haven't been stabbed once,safety,LOCATION1,Positive
+302,229,217,I've lived in LOCATION1 for 34 years and never had any problem,safety,LOCATION1,Positive
+303,230,574,I've lived in LOCATION1 my whole life and frankly I hate it,live,LOCATION1,Negative
+304,230,574,I've lived in LOCATION1 my whole life and frankly I hate it,general,LOCATION1,Negative
+305,231,8,IO have a friend in LOCATION1 but she says it's a pain in the ar travelling to central every day for work,transit-location,LOCATION1,Negative
+306,232,223,Id live in LOCATION1and has transport links via national rail,transit-location,LOCATION1,Positive
+307,233,316,"Id suggest LOCATION1 is an area on the up , the main high street seem to be thriving these days so you might find good value",general,LOCATION1,Positive
+308,233,316,"Id suggest LOCATION1 is an area on the up , the main high street seem to be thriving these days so you might find good value",price,LOCATION1,Positive
+309,234,666,"Ideally in LOCATION2 / LOCATION1, although rest of London is cool",general,LOCATION1,Positive
+310,234,666,"Ideally in LOCATION2 / LOCATION1, although rest of London is cool",general,LOCATION2,Positive
+311,235,641,If London is a must then avoid the area around LOCATION1 and LOCATION2 in the South-East,general,LOCATION2,Negative
+312,235,641,If London is a must then avoid the area around LOCATION1 and LOCATION2 in the South-East,general,LOCATION1,Negative
+313,236,248,"If London, a good place is LOCATION1",general,LOCATION1,Positive
+315,238,677,If money isn't an object them you could try LOCATION1 or LOCATION2 as they're Thameside and both have direct tube links to SK,transit-location,LOCATION2,Positive
+316,238,677,If money isn't an object them you could try LOCATION1 or LOCATION2 as they're Thameside and both have direct tube links to SK,price,LOCATION1,Negative
+317,238,677,If money isn't an object them you could try LOCATION1 or LOCATION2 as they're Thameside and both have direct tube links to SK,price,LOCATION2,Negative
+318,238,677,If money isn't an object them you could try LOCATION1 or LOCATION2 as they're Thameside and both have direct tube links to SK,general,LOCATION2,Positive
+319,238,677,If money isn't an object them you could try LOCATION1 or LOCATION2 as they're Thameside and both have direct tube links to SK,general,LOCATION1,Positive
+320,238,677,If money isn't an object them you could try LOCATION1 or LOCATION2 as they're Thameside and both have direct tube links to SK,transit-location,LOCATION1,Positive
+321,239,373,If money was no object - LOCATION1 in LOCATION2,price,LOCATION1,Negative
+324,242,246,If you are in LOCATION1 head to 'La Pietra' one of the better Italian restaurants in the area,dining,LOCATION1,Positive
+325,243,658,"If you are really scared of crime statistics, choose LOCATION1 or even LOCATION2",safety,LOCATION2,Positive
+326,243,658,"If you are really scared of crime statistics, choose LOCATION1 or even LOCATION2",safety,LOCATION1,Positive
+327,244,717,If you have a reasonable budget go for LOCATION2 or LOCATION1,general,LOCATION2,Positive
+328,244,717,If you have a reasonable budget go for LOCATION2 or LOCATION1,price,LOCATION1,Negative
+329,244,717,If you have a reasonable budget go for LOCATION2 or LOCATION1,price,LOCATION2,Negative
+330,244,717,If you have a reasonable budget go for LOCATION2 or LOCATION1,general,LOCATION1,Positive
+331,245,741,"If you lived in LOCATION1 or LOCATION2, expect to get your head kicked in a fair few times",safety,LOCATION1,Negative
+332,245,741,"If you lived in LOCATION1 or LOCATION2, expect to get your head kicked in a fair few times",safety,LOCATION2,Negative
+335,248,699,If you want a decent place to bring up kids or have a decent standart of living try LOCATION1 or LOCATION2,general,LOCATION2,Positive
+336,248,699,If you want a decent place to bring up kids or have a decent standart of living try LOCATION1 or LOCATION2,general,LOCATION1,Positive
+339,251,702,If you want to live in Essex stick to areas like LOCATION2 or LOCATION1,general,LOCATION1,Positive
+340,251,702,If you want to live in Essex stick to areas like LOCATION2 or LOCATION1,general,LOCATION2,Positive
+343,254,561,If you're into shopping head to LOCATION1 ,shopping,LOCATION1,Positive
+344,255,720,"If your a quiet person who enjoys their space and likes to reflect on the world then a quiet suburban area near London like LOCATION1, or LOCATION2",quiet,LOCATION2,Positive
+345,255,720,"If your a quiet person who enjoys their space and likes to reflect on the world then a quiet suburban area near London like LOCATION1, or LOCATION2",quiet,LOCATION1,Positive
+347,257,273,"If your looking for somewhere in particular though LOCATION1 is a good place , and like all places it has a range of expensive and not so expensive areas : )",general,LOCATION1,Positive
+348,258,489,"If your looking to be within the Greater London area, maybe try looking at LOCATION1, which isjust slightly less expensive",general,LOCATION1,Positive
+349,258,489,"If your looking to be within the Greater London area, maybe try looking at LOCATION1, which isjust slightly less expensive",price,LOCATION1,Positive
+350,259,173,"In LOCATION1, there's the Geffrye Museum which has regular children's special days, and the Museum of Childhood which is all about children",touristy,LOCATION1,Positive
+351,260,358,In general LOCATION1 is a good place to go as there are so many different shops and stalls to go to and it's mostly affordable,price,LOCATION1,Positive
+352,260,358,In general LOCATION1 is a good place to go as there are so many different shops and stalls to go to and it's mostly affordable,shopping,LOCATION1,Positive
+353,261,721,In my opinion LOCATION2 isn't too far out but LOCATION1 can be quite a treck,transit-location,LOCATION1,Negative
+354,261,721,In my opinion LOCATION2 isn't too far out but LOCATION1 can be quite a treck,transit-location,LOCATION2,Positive
+355,262,710,In other words the best place to live in London is LOCATION1 and LOCATION2 all the other places are dumps,live,LOCATION2,Positive
+356,262,710,In other words the best place to live in London is LOCATION1 and LOCATION2 all the other places are dumps,live,LOCATION1,Positive
+358,264,191,Is it ok to live near LOCATION1,live,LOCATION1,Positive
+361,267,432,It is really easy to travel via subway in London especially being located near LOCATION1,transit-location,LOCATION1,Positive
+362,268,448,It's close to LOCATION1 park which is a major sportssite and the park itself is great with a number of attractions including the famous victorian dinosaurs,touristy,LOCATION1,Positive
+363,268,448,It's close to LOCATION1 park which is a major sportssite and the park itself is great with a number of attractions including the famous victorian dinosaurs,green-nature,LOCATION1,Positive
+364,269,18,It's cool working in LOCATION1 as I like being on the victoria line,transit-location,LOCATION1,Positive
+368,273,531,Just a couple of ideasLOCATION1 is much better than it used to be and is very central,general,LOCATION1,Positive
+369,273,531,Just a couple of ideasLOCATION1 is much better than it used to be and is very central,transit-location,LOCATION1,Positive
+370,274,567,"Just think of Little Somalia and its there, right in LOCATION1",multicultural,LOCATION1,Positive
+373,277,469,LOCATION1It's pricey but at night it's beautiful,general,LOCATION1,Positive
+374,277,469,LOCATION1It's pricey but at night it's beautiful,price,LOCATION1,Negative
+375,278,104,LOCATION1has improved in recent years with the opening of the international rail terminal at St Pancras,general,LOCATION1,Positive
+376,278,104,LOCATION1has improved in recent years with the opening of the international rail terminal at St Pancras,transit-location,LOCATION1,Positive
+377,279,211,LOCATION1have a big Bangladeshi population,multicultural,LOCATION1,Positive
+378,280,383,LOCATION1is fine and I never had any trouble,general,LOCATION1,Positive
+379,280,383,LOCATION1is fine and I never had any trouble,safety,LOCATION1,Positive
+380,281,166,LOCATION1they actually have deer running about in the park,green-nature,LOCATION1,Positive
+381,282,275,"LOCATION1 , on the other hand , is dodgy",safety,LOCATION1,Negative
+382,283,188,"LOCATION1 , south London is also home to a sizeable Brazilian community that lives alongside the UK 's single largest Portuguese community in ` Little Portugal '",multicultural,LOCATION1,Positive
+383,284,618,"LOCATION1 - Central, fairly affordable",price,LOCATION1,Positive
+384,284,618,"LOCATION1 - Central, fairly affordable",transit-location,LOCATION1,Positive
+385,285,22,"LOCATION1 - Exciting neighbourhood, full of culture",general,LOCATION1,Positive
+386,285,22,"LOCATION1 - Exciting neighbourhood, full of culture",multicultural,LOCATION1,Positive
+387,286,162,"LOCATION1 - Good shopping area, loads of offices, very modern, skyscrapers etcVery different from the rest of London",shopping,LOCATION1,Positive
+393,292,435,"LOCATION1 Estagain not somewhere I'd chose to live, but again, mainly council housing so its unlikely it would come up",live,LOCATION1,Negative
+394,293,134,"LOCATION1 I think is a bit of a dead area , not much there and transport is awkward",general,LOCATION1,Negative
+395,293,134,"LOCATION1 I think is a bit of a dead area , not much there and transport is awkward",transit-location,LOCATION1,Negative
+396,294,196,LOCATION1 I think is generally safer,safety,LOCATION1,Positive
+399,297,204,"LOCATION1 London Farm has a wide range of livestock, poultry, and horses, and offers pony rides on Saturday and Sunday, 1.30pm-2.30pm (for 1)",green-nature,LOCATION1,Positive
+400,298,645,"LOCATION1 N1 , N7 and N5 is also nice and LOCATION2 NW1 is also nice , both a bit more upscale than Stokey",general,LOCATION2,Positive
+401,298,645,"LOCATION1 N1 , N7 and N5 is also nice and LOCATION2 NW1 is also nice , both a bit more upscale than Stokey",general,LOCATION1,Positive
+405,302,452,LOCATION1 SW12 is ideal for a young 20-30 ish couple,general,LOCATION1,Positive
+406,303,181,LOCATION1 Villageis not Central London,transit-location,LOCATION1,Negative
+408,305,151,LOCATION1 a large park in central London; there is no admission charge,transit-location,LOCATION1,Positive
+409,305,151,LOCATION1 a large park in central London; there is no admission charge,green-nature,LOCATION1,Positive
+410,306,10,"LOCATION1 aint cheap you muppet, that's prime location",price,LOCATION1,Negative
+411,306,10,"LOCATION1 aint cheap you muppet, that's prime location",transit-location,LOCATION1,Positive
+412,307,643,LOCATION1 and LOCATION2 are handiest for transport though,transit-location,LOCATION1,Positive
+413,307,643,LOCATION1 and LOCATION2 are handiest for transport though,transit-location,LOCATION2,Positive
+414,308,707,"LOCATION1 and LOCATION2 are my top picks for location , being a `` good '' area full of parks and other nice things , however they 're quite posh and",green-nature,LOCATION2,Positive
+415,308,707,"LOCATION1 and LOCATION2 are my top picks for location , being a `` good '' area full of parks and other nice things , however they 're quite posh and",transit-location,LOCATION1,Positive
+416,308,707,"LOCATION1 and LOCATION2 are my top picks for location , being a `` good '' area full of parks and other nice things , however they 're quite posh and",transit-location,LOCATION2,Positive
+417,308,707,"LOCATION1 and LOCATION2 are my top picks for location , being a `` good '' area full of parks and other nice things , however they 're quite posh and",green-nature,LOCATION1,Positive
+418,308,707,"LOCATION1 and LOCATION2 are my top picks for location , being a `` good '' area full of parks and other nice things , however they 're quite posh and",price,LOCATION2,Negative
+419,308,707,"LOCATION1 and LOCATION2 are my top picks for location , being a `` good '' area full of parks and other nice things , however they 're quite posh and",price,LOCATION1,Negative
+420,309,724,LOCATION1 and LOCATION2 are the most dangerous,safety,LOCATION1,Negative
+421,309,724,LOCATION1 and LOCATION2 are the most dangerous,safety,LOCATION2,Negative
+422,310,652,LOCATION1 and LOCATION2 are the most dangerous areas in London,safety,LOCATION1,Negative
+423,310,652,LOCATION1 and LOCATION2 are the most dangerous areas in London,safety,LOCATION2,Negative
+424,311,718,LOCATION1 and LOCATION2 no go areas,general,LOCATION2,Negative
+425,311,718,LOCATION1 and LOCATION2 no go areas,general,LOCATION1,Negative
+427,313,354,"LOCATION1 and surrounding areas have plenty of restaurants , bars as well as its quiet side",quiet,LOCATION1,Positive
+428,313,354,"LOCATION1 and surrounding areas have plenty of restaurants , bars as well as its quiet side",nightlife,LOCATION1,Positive
+429,313,354,"LOCATION1 and surrounding areas have plenty of restaurants , bars as well as its quiet side",dining,LOCATION1,Positive
+432,316,409,LOCATION1 but its not cheap,price,LOCATION1,Negative
+433,317,415,LOCATION1 certainly isn't known for high crime levelsNo at all,safety,LOCATION1,Positive
+434,318,94,LOCATION1 for Indian food,dining,LOCATION1,Positive
+435,319,154,LOCATION1 from what I see is quite posh,price,LOCATION1,Negative
+436,320,133,LOCATION1 has a cinema and a lot of different places to eat,dining,LOCATION1,Positive
+437,321,601,LOCATION1 has a really cool market which attracts goths,shopping,LOCATION1,Positive
+438,322,496,"LOCATION1 has a reputation as an affluent and fashionable area, known for attractive terraces of large Victorian townhouses, and high-class shopping and restaurants",dining,LOCATION1,Positive
+439,322,496,"LOCATION1 has a reputation as an affluent and fashionable area, known for attractive terraces of large Victorian townhouses, and high-class shopping and restaurants",shopping,LOCATION1,Positive
+440,322,496,"LOCATION1 has a reputation as an affluent and fashionable area, known for attractive terraces of large Victorian townhouses, and high-class shopping and restaurants",price,LOCATION1,Negative
+441,323,45,LOCATION1 has a vibrant Indian community Maximum indians are living there,multicultural,LOCATION1,Positive
+442,324,64,"LOCATION1 has an amazing nightlife , it 's a really beautiful and vibrant part of the London and there 's always loads going on",general,LOCATION1,Positive
+443,324,64,"LOCATION1 has an amazing nightlife , it 's a really beautiful and vibrant part of the London and there 's always loads going on",nightlife,LOCATION1,Positive
+444,325,1,LOCATION1 has some trendy bars and a few restaurant mainly limited to hoxton Square,nightlife,LOCATION1,Positive
+445,325,1,LOCATION1 has some trendy bars and a few restaurant mainly limited to hoxton Square,dining,LOCATION1,Positive
+447,327,29,"LOCATION1 has the nicest areas , pricey though",general,LOCATION1,Positive
+448,327,29,"LOCATION1 has the nicest areas , pricey though",price,LOCATION1,Negative
+449,328,450,"LOCATION1 has very good buses , is in walking distance of LOCATION1 or Elephant tube and has trains from Denmark Hill station",transit-location,LOCATION1,Positive
+450,329,125,LOCATION1 i kno it is just outside London but is nice ,transit-location,LOCATION1,Negative
+451,329,125,LOCATION1 i kno it is just outside London but is nice ,general,LOCATION1,Positive
+452,330,504,LOCATION1 if you can afford is great,general,LOCATION1,Positive
+453,330,504,LOCATION1 if you can afford is great,price,LOCATION1,Negative
+454,331,225,"LOCATION1 in LOCATION2 is a nice area , and pretty cheap",general,LOCATION1,Positive
+455,331,225,"LOCATION1 in LOCATION2 is a nice area , and pretty cheap",price,LOCATION1,Positive
+457,333,308,LOCATION1 in SW London is a nice part of London,general,LOCATION1,Positive
+458,334,157,"LOCATION1 in the North, not too far from LOCATION2, has good schools and is a really nice pocket of London",general,LOCATION1,Positive
+459,334,157,"LOCATION1 in the North, not too far from LOCATION2, has good schools and is a really nice pocket of London",transit-location,LOCATION1,Positive
+460,335,597,LOCATION1 is Great too,general,LOCATION1,Positive
+461,336,494,LOCATION1 is OK but where are you coming from,general,LOCATION1,Positive
+462,337,296,LOCATION1 is a 30 minute train ride from LOCATION1 Station in central London,transit-location,LOCATION1,Positive
+463,338,743,LOCATION1 is a better area after LOCATION2,general,LOCATION2,Positive
+464,338,743,LOCATION1 is a better area after LOCATION2,general,LOCATION1,Positive
+465,339,740,"LOCATION1 is a bit of a dump, LOCATION2 is slightly nicer",general,LOCATION1,Negative
+466,339,740,"LOCATION1 is a bit of a dump, LOCATION2 is slightly nicer",general,LOCATION2,Positive
+467,340,213,LOCATION1 is a brilliant place to live,live,LOCATION1,Positive
+468,341,256,LOCATION1 is a clean area with park and shops along the whole chiswick High Road,general,LOCATION1,Positive
+469,341,256,LOCATION1 is a clean area with park and shops along the whole chiswick High Road,shopping,LOCATION1,Positive
+470,341,256,LOCATION1 is a clean area with park and shops along the whole chiswick High Road,green-nature,LOCATION1,Positive
+471,342,377,LOCATION1 is a commuter town for people working in London,transit-location,LOCATION1,Positive
+472,343,218,LOCATION1 is a decent area and easy to get to work on the train,general,LOCATION1,Positive
+473,343,218,LOCATION1 is a decent area and easy to get to work on the train,transit-location,LOCATION1,Positive
+474,344,244,LOCATION1 is a good area for a newcomer,general,LOCATION1,Positive
+475,345,282,LOCATION1 is a good area of London to live in,live,LOCATION1,Positive
+476,346,505,LOCATION1 is a good place,general,LOCATION1,Positive
+477,347,38,LOCATION1 is a good place to start out in London,general,LOCATION1,Positive
+478,348,568,"LOCATION1 is a great area with heaps of pubs , restaurants and young people everywhere",general,LOCATION1,Positive
+479,348,568,"LOCATION1 is a great area with heaps of pubs , restaurants and young people everywhere",dining,LOCATION1,Positive
+480,348,568,"LOCATION1 is a great area with heaps of pubs , restaurants and young people everywhere",nightlife,LOCATION1,Positive
+481,349,113,LOCATION1 is a great place to live,live,LOCATION1,Positive
+482,350,628,LOCATION1 is a high class quiet residential area BUT there are also two penal establishments in the area,general,LOCATION1,Negative
+483,350,628,LOCATION1 is a high class quiet residential area BUT there are also two penal establishments in the area,quiet,LOCATION1,Positive
+484,351,70,LOCATION1 is a lovely part of London and I 'd definitely want to live there given an opportunity,live,LOCATION1,Positive
+485,351,70,LOCATION1 is a lovely part of London and I 'd definitely want to live there given an opportunity,general,LOCATION1,Positive
+486,352,451,"LOCATION1 is a major transport centre for trains , buses and Tube lines",transit-location,LOCATION1,Positive
+487,353,158,LOCATION1 is a museum to some of the best curry London has to offer,dining,LOCATION1,Positive
+488,354,319,LOCATION1 is a nice place,general,LOCATION1,Positive
+489,355,250,"LOCATION1 is a nice place to live near Roundwood Park , it is located in North West of London",green-nature,LOCATION1,Positive
+490,355,250,"LOCATION1 is a nice place to live near Roundwood Park , it is located in North West of London",live,LOCATION1,Positive
+491,356,467,"LOCATION1 is a very nice area with restaurants and bars, and only about 15 minutes on the tube (Jubilee Line) from the centre of town",transit-location,LOCATION1,Positive
+492,356,467,"LOCATION1 is a very nice area with restaurants and bars, and only about 15 minutes on the tube (Jubilee Line) from the centre of town",nightlife,LOCATION1,Positive
+493,356,467,"LOCATION1 is a very nice area with restaurants and bars, and only about 15 minutes on the tube (Jubilee Line) from the centre of town",dining,LOCATION1,Positive
+494,357,51,LOCATION1 is a very popular place for Australians and South Africans so you 'd probably find a lively community you 'd fit in with there,multicultural,LOCATION1,Positive
+495,358,14,LOCATION1 is about the safest area in London,safety,LOCATION1,Positive
+497,360,83,LOCATION1 is also a good area to live,live,LOCATION1,Positive
+498,361,477,LOCATION1 is also a good choice and has much more going on than the other two places,general,LOCATION1,Positive
+499,362,620,LOCATION1 is also a good location,general,LOCATION1,Positive
+500,363,571,"LOCATION1 is also a great place , but incredibly pricey Depends what your budget is like",general,LOCATION1,Positive
+501,363,571,"LOCATION1 is also a great place , but incredibly pricey Depends what your budget is like",price,LOCATION1,Negative
+502,364,622,LOCATION1 is also not bad,general,LOCATION1,Positive
+503,365,310,LOCATION1 is also quite hip but is still a bit edgy,general,LOCATION1,Positive
+504,366,705,"LOCATION1 is also very popular, as is LOCATION2",general,LOCATION2,Positive
+505,366,705,"LOCATION1 is also very popular, as is LOCATION2",general,LOCATION1,Positive
+506,367,65,LOCATION1 is amazing,general,LOCATION1,Positive
+507,368,19,LOCATION1 is an amazing place to live,live,LOCATION1,Positive
+508,369,136,"LOCATION1 is an area with lots of places to eat , has a market through the week",shopping,LOCATION1,Positive
+509,369,136,"LOCATION1 is an area with lots of places to eat , has a market through the week",dining,LOCATION1,Positive
+510,370,243,LOCATION1 is beautiful and has so much for kids there,general,LOCATION1,Positive
+511,371,715,LOCATION1 is bestLOCATION2 are extremely unpleasant,general,LOCATION2,Negative
+512,371,715,LOCATION1 is bestLOCATION2 are extremely unpleasant,general,LOCATION1,Positive
+514,373,185,LOCATION1 is cheaper to live in than LOCATION2 by the way,price,LOCATION1,Positive
+515,374,607,LOCATION1 is cheapest place to stay near to London with rates upto 600pounds for descent space,price,LOCATION1,Positive
+517,376,605,"LOCATION1 is excellent for transport ( trains , buses , and another tube station , this one with more lines )",transit-location,LOCATION1,Positive
+518,377,67,LOCATION1 is fine but it can be very noisy depending where you live and the trains and buses are always crowded during morning and evening commutes,transit-location,LOCATION1,Negative
+519,377,67,LOCATION1 is fine but it can be very noisy depending where you live and the trains and buses are always crowded during morning and evening commutes,quiet,LOCATION1,Negative
+520,377,67,LOCATION1 is fine but it can be very noisy depending where you live and the trains and buses are always crowded during morning and evening commutes,general,LOCATION1,Positive
+522,379,438,LOCATION1 is full of everything including markets and street entertainers and musicians - itis really entertaining and good fun,touristy,LOCATION1,Positive
+523,379,438,LOCATION1 is full of everything including markets and street entertainers and musicians - itis really entertaining and good fun,shopping,LOCATION1,Positive
+524,379,438,LOCATION1 is full of everything including markets and street entertainers and musicians - itis really entertaining and good fun,general,LOCATION1,Positive
+525,380,182,LOCATION1 is generally cheaper than LOCATION1 because of the lack of tube stations so you might want to start there,transit-location,LOCATION1,Negative
+526,380,182,LOCATION1 is generally cheaper than LOCATION1 because of the lack of tube stations so you might want to start there,price,LOCATION1,Positive
+527,381,12,LOCATION1 is good,general,LOCATION1,Positive
+528,382,212,LOCATION1 is good if you like to have good transport but still feel like a little town on its own,transit-location,LOCATION1,Positive
+529,383,476,"LOCATION1 is great , as it 's very posh",general,LOCATION1,Positive
+530,383,476,"LOCATION1 is great , as it 's very posh",price,LOCATION1,Negative
+531,384,374,LOCATION1 is great Tube/overground/THE COMMONS London is a very strange place to live as alot of the rougher areas close to town are expensive and the nice parts are cheaper because there out of town,transit-location,LOCATION1,Positive
+532,385,16,"LOCATION1 is great and best for transport, having tube and overground",general,LOCATION1,Positive
+533,385,16,"LOCATION1 is great and best for transport, having tube and overground",transit-location,LOCATION1,Positive
+534,386,733,LOCATION1 is great; not so much the other parts of LOCATION2,general,LOCATION2,Negative
+535,386,733,LOCATION1 is great; not so much the other parts of LOCATION2,general,LOCATION1,Positive
+538,389,370,LOCATION1 is lovely and not at all like LOCATION1,general,LOCATION1,Positive
+539,390,28,LOCATION1 is more residential ; mostly streets of houses and it will take longer to get in to the London,transit-location,LOCATION1,Negative
+540,391,207,LOCATION1 is much better,general,LOCATION1,Positive
+541,392,2,"LOCATION1 is much more lively, good shops, more multicultural but borders on some rough areas",shopping,LOCATION1,Positive
+542,392,2,"LOCATION1 is much more lively, good shops, more multicultural but borders on some rough areas",safety,LOCATION1,Negative
+543,392,2,"LOCATION1 is much more lively, good shops, more multicultural but borders on some rough areas",multicultural,LOCATION1,Positive
+544,393,556,"LOCATION1 is n't safe , I used to live there and it is a disgusting , rough area",general,LOCATION1,Negative
+545,393,556,"LOCATION1 is n't safe , I used to live there and it is a disgusting , rough area",safety,LOCATION1,Negative
+546,394,594,LOCATION1 is n't very friendly either,general,LOCATION1,Negative
+547,395,145,LOCATION1 is near LOCATION1 but it is quite a posh place,price,LOCATION1,Negative
+548,396,178,LOCATION1 is nice,general,LOCATION1,Positive
+549,397,107,LOCATION1 is niceI live around the LOCATION1/richmond area,general,LOCATION1,Positive
+550,398,414,"LOCATION1 is nice , plenty of green spaces and several train stations I will be relocating to London for work in one month",transit-location,LOCATION1,Positive
+551,398,414,"LOCATION1 is nice , plenty of green spaces and several train stations I will be relocating to London for work in one month",green-nature,LOCATION1,Positive
+552,398,414,"LOCATION1 is nice , plenty of green spaces and several train stations I will be relocating to London for work in one month",general,LOCATION1,Positive
+553,399,434,"LOCATION1 is nice , the green belt is just 5 minutes away , its all fields there",general,LOCATION1,Positive
+554,399,434,"LOCATION1 is nice , the green belt is just 5 minutes away , its all fields there",green-nature,LOCATION1,Positive
+555,400,575,"LOCATION1 is nice, but NOT cheap, and for my taste, too far out",general,LOCATION1,Positive
+556,400,575,"LOCATION1 is nice, but NOT cheap, and for my taste, too far out",transit-location,LOCATION1,Negative
+557,400,575,"LOCATION1 is nice, but NOT cheap, and for my taste, too far out",price,LOCATION1,Negative
+558,401,35,"LOCATION1 is not the best place to be, esp for u young girls at night to be honest, and not much in the way of shopping either",general,LOCATION1,Negative
+559,401,35,"LOCATION1 is not the best place to be, esp for u young girls at night to be honest, and not much in the way of shopping either",shopping,LOCATION1,Negative
+561,403,93,LOCATION1 is ok,general,LOCATION1,Positive
+562,404,72,LOCATION1 is ok to live,live,LOCATION1,Positive
+563,405,88,"LOCATION1 is okay , houses are n't too expensive there London is not a safe London",general,LOCATION1,Positive
+564,405,88,"LOCATION1 is okay , houses are n't too expensive there London is not a safe London",price,LOCATION1,Positive
+565,406,247,LOCATION1 is on the Metropolitan Line of the Underground ; the trains are frequent and take 35 minutes to LOCATION1,transit-location,LOCATION1,Positive
+566,407,378,LOCATION1 is on the Piccadilly line and you can commute to there in 30 minutes from virtually the most northerly point on the line about 10 miles out on the outskirts of London,transit-location,LOCATION1,Positive
+567,408,619,"LOCATION1 is one of if not the most expensive areas in London, so if you're looking for reasonably pricing I'd avoid it",price,LOCATION1,Negative
+568,409,269,LOCATION1 is one of the best boroughs in Londonthere are 2 tube lines and numerous overhead train stations around,general,LOCATION1,Positive
+569,409,269,LOCATION1 is one of the best boroughs in Londonthere are 2 tube lines and numerous overhead train stations around,transit-location,LOCATION1,Positive
+570,410,165,"LOCATION1 is one of the best places to live in South, Greater London",live,LOCATION1,Positive
+571,411,352,LOCATION1 is one of the nicest London Boroughs,general,LOCATION1,Positive
+573,413,183,"LOCATION1 is pretty expensive , as are swathes of the rest of the borough",price,LOCATION1,Negative
+574,414,278,LOCATION1 is probably better although you may get noise from the Airport,general,LOCATION1,Positive
+575,414,278,LOCATION1 is probably better although you may get noise from the Airport,quiet,LOCATION1,Negative
+576,415,66,LOCATION1 is probably safer than other areas,safety,LOCATION1,Positive
+577,416,385,"LOCATION1 is quite a long way out of London , but its very green",transit-location,LOCATION1,Negative
+578,416,385,"LOCATION1 is quite a long way out of London , but its very green",green-nature,LOCATION1,Positive
+579,417,30,LOCATION1 is quite a low rent area,price,LOCATION1,Positive
+580,418,82,"LOCATION1 is quite a nice area , it has a few universities in/around it and is also well know for being a place where young families live",general,LOCATION1,Positive
+581,419,257,LOCATION1 is really close to central London ( easy walk ) but very expensive rent,price,LOCATION1,Negative
+582,419,257,LOCATION1 is really close to central London ( easy walk ) but very expensive rent,transit-location,LOCATION1,Positive
+583,420,625,"LOCATION1 is really nice , lovely park and market",shopping,LOCATION1,Positive
+584,420,625,"LOCATION1 is really nice , lovely park and market",general,LOCATION1,Positive
+585,420,625,"LOCATION1 is really nice , lovely park and market",green-nature,LOCATION1,Positive
+586,421,522,"LOCATION1 is right on the THames , we have a inner London farm , and several marines",green-nature,LOCATION1,Positive
+587,422,306,"LOCATION1 is safe , in general ,there is a high pick pocket rate , but keep your wits about you and do n't carry things in exposed pockets",safety,LOCATION1,Positive
+588,423,478,"LOCATION1 is slightly more up market, it's an extremely vibrant area of London, and mainly consists of young and middle aged professionals",general,LOCATION1,Positive
+589,424,562,"LOCATION1 is slightly more upmarket , with good train/tube connections to London There 's nothing wrong with any of those areas but there is probably some truth in what you 've heard",general,LOCATION1,Positive
+590,424,562,"LOCATION1 is slightly more upmarket , with good train/tube connections to London There 's nothing wrong with any of those areas but there is probably some truth in what you 've heard",transit-location,LOCATION1,Positive
+592,426,48,LOCATION1 is the address of choice for those with enough money to be able to choose anywhere they like,price,LOCATION1,Negative
+593,427,329,LOCATION1 is the best area,general,LOCATION1,Positive
+594,428,189,LOCATION1 is the best place to live in London,live,LOCATION1,Positive
+596,430,344,"LOCATION1 is the nicest suburb, but a little farther out",transit-location,LOCATION1,Negative
+597,430,344,"LOCATION1 is the nicest suburb, but a little farther out",general,LOCATION1,Positive
+598,431,654,LOCATION1 is the worst part of LondonLOCATION2 is safer,general,LOCATION1,Negative
+599,431,654,LOCATION1 is the worst part of LondonLOCATION2 is safer,safety,LOCATION2,Positive
+600,432,172,LOCATION1 is up and coming and then you have LOCATION1 right next to you,general,LOCATION1,Positive
+601,433,536,LOCATION1 is up and coming for young families,general,LOCATION1,Positive
+602,434,528,LOCATION1 is very attractive and is a short frequent suburban rail commute into central London,general,LOCATION1,Positive
+603,434,528,LOCATION1 is very attractive and is a short frequent suburban rail commute into central London,transit-location,LOCATION1,Positive
+604,435,294,LOCATION1 is very cosmopolitan and good for DJ bars and Live Music Venues,nightlife,LOCATION1,Positive
+605,435,294,LOCATION1 is very cosmopolitan and good for DJ bars and Live Music Venues,multicultural,LOCATION1,Positive
+606,436,216,LOCATION1 is very downmarket,general,LOCATION1,Negative
+607,437,74,LOCATION1 is very expensive to live and renting a flat there would cost you approx,price,LOCATION1,Negative
+608,438,111,LOCATION1 is very far from Central London and no buses except from nights go to Central London straight,transit-location,LOCATION1,Negative
+609,439,227,LOCATION1 is very middle class with people with lots of money,price,LOCATION1,Negative
+610,440,512,"LOCATION1 is very nice, it is full of green space and one of the most picturesque parks in London",general,LOCATION1,Positive
+611,440,512,"LOCATION1 is very nice, it is full of green space and one of the most picturesque parks in London",green-nature,LOCATION1,Positive
+612,441,39,LOCATION1 is well connected on the Jubilee (zone 2) line being one of the newest lines and takes you to LOCATION2 or Bond Street in no time at all,transit-location,LOCATION1,Positive
+613,442,393,LOCATION1 is well connected with three tube stations and is generally a plesant place to live,live,LOCATION1,Positive
+614,442,393,LOCATION1 is well connected with three tube stations and is generally a plesant place to live,transit-location,LOCATION1,Positive
+615,443,473,LOCATION1 is well worth a visit too - just hop on the DLR and it takes you straight there,touristy,LOCATION1,Positive
+616,443,473,LOCATION1 is well worth a visit too - just hop on the DLR and it takes you straight there,transit-location,LOCATION1,Positive
+617,443,473,LOCATION1 is well worth a visit too - just hop on the DLR and it takes you straight there,general,LOCATION1,Positive
+618,444,363,LOCATION1 isn't to bad either,general,LOCATION1,Positive
+619,445,297,"LOCATION1 itself is a lovely area to live , my nans lived there for 30 years and I spend much of my child their",live,LOCATION1,Positive
+620,446,120,"LOCATION1 may be an excellent option , there 're relatively inexpensive areas there , and you can travel to richmond by bike $ 450 a week roughly equates to 1000 over here ( there 's not much point in you asking us in dollars seeing as that is n't the currency we use over here )",transit-location,LOCATION1,Positive
+621,446,120,"LOCATION1 may be an excellent option , there 're relatively inexpensive areas there , and you can travel to richmond by bike $ 450 a week roughly equates to 1000 over here ( there 's not much point in you asking us in dollars seeing as that is n't the currency we use over here )",price,LOCATION1,Positive
+623,448,80,LOCATION1 might sometimes have a bad reputation but actually much of it is quite nice depends very much which part of LOCATION1 you 're talking about,general,LOCATION1,Positive
+624,449,43,LOCATION1 near LOCATION1 would be ideal because there are direct trains to Gatwick from there,transit-location,LOCATION1,Positive
+625,450,239,LOCATION1 offers many authentic indian restaurants such as dosa n chutney and chennai dosa,dining,LOCATION1,Positive
+627,452,729,"LOCATION1 or LOCATION2 , both have lots of restaurants and pubs",nightlife,LOCATION2,Positive
+628,452,729,"LOCATION1 or LOCATION2 , both have lots of restaurants and pubs",dining,LOCATION1,Positive
+629,452,729,"LOCATION1 or LOCATION2 , both have lots of restaurants and pubs",dining,LOCATION2,Positive
+630,452,729,"LOCATION1 or LOCATION2 , both have lots of restaurants and pubs",nightlife,LOCATION1,Positive
+631,453,691,"LOCATION1 or LOCATION2 are no where near Central Ondon, and you'll spend all your time on trains",transit-location,LOCATION1,Negative
+632,453,691,"LOCATION1 or LOCATION2 are no where near Central Ondon, and you'll spend all your time on trains",transit-location,LOCATION2,Negative
+633,454,708,LOCATION1 or LOCATION2 if you can afford either of these areas,general,LOCATION1,Positive
+634,454,708,LOCATION1 or LOCATION2 if you can afford either of these areas,price,LOCATION1,Negative
+635,454,708,LOCATION1 or LOCATION2 if you can afford either of these areas,price,LOCATION2,Negative
+636,454,708,LOCATION1 or LOCATION2 if you can afford either of these areas,general,LOCATION2,Positive
+638,456,236,LOCATION1 runs on the victoria line,transit-location,LOCATION1,Positive
+639,457,159,LOCATION1 seems to be full of teenagers these days and it can get quite touristy and dirty,general,LOCATION1,Negative
+640,457,159,LOCATION1 seems to be full of teenagers these days and it can get quite touristy and dirty,touristy,LOCATION1,Positive
+641,458,519,LOCATION1 used to be utterly dreadful,general,LOCATION1,Negative
+643,460,417,LOCATION1 was probaly the first Irish community in London,multicultural,LOCATION1,Positive
+644,461,525,LOCATION1 which is not far from LOCATION1 would be a better community to live in ,live,LOCATION1,Positive
+645,462,468,LOCATION1 would be a good choice,general,LOCATION1,Positive
+646,463,428,LOCATION1 would be good,general,LOCATION1,Positive
+647,464,287,"LOCATION1's bloody horrible,AND, I daresay, probably, bleedin' expensive an' all",general,LOCATION1,Negative
+648,464,287,"LOCATION1's bloody horrible,AND, I daresay, probably, bleedin' expensive an' all",price,LOCATION1,Negative
+649,465,391,LOCATION1's still quite central and has good bus and tube connections (and it's easy to get to LOCATION2 from there),transit-location,LOCATION1,Positive
+650,466,698,"LOCATION1, LOCATION2and surrounding areas are good",general,LOCATION2,Positive
+651,466,698,"LOCATION1, LOCATION2and surrounding areas are good",general,LOCATION1,Positive
+652,467,697,"LOCATION1, LOCATION2 its kind of scary people get mugged very often",safety,LOCATION1,Negative
+653,467,697,"LOCATION1, LOCATION2 its kind of scary people get mugged very often",safety,LOCATION2,Negative
+654,468,668,"LOCATION1, London's most beautiful open spaceLOCATION2, is mainly a Jewish area,",multicultural,LOCATION2,Positive
+655,468,668,"LOCATION1, London's most beautiful open spaceLOCATION2, is mainly a Jewish area,",green-nature,LOCATION1,Positive
+656,469,298,"LOCATION1, Middx - just slightly North, and a lovely place",general,LOCATION1,Positive
+657,470,616,"LOCATION1, a quieter area, although it will have local shops, restaurants etcNot far from LOCATION2 and the River",quiet,LOCATION1,Positive
+658,470,616,"LOCATION1, a quieter area, although it will have local shops, restaurants etcNot far from LOCATION2 and the River",transit-location,LOCATION1,Positive
+659,470,616,"LOCATION1, a quieter area, although it will have local shops, restaurants etcNot far from LOCATION2 and the River",green-nature,LOCATION1,Positive
+660,470,616,"LOCATION1, a quieter area, although it will have local shops, restaurants etcNot far from LOCATION2 and the River",dining,LOCATION1,Positive
+661,470,616,"LOCATION1, a quieter area, although it will have local shops, restaurants etcNot far from LOCATION2 and the River",shopping,LOCATION1,Positive
+664,473,375,"LOCATION1, it is a great place to go out for the day to shop or see a film, and has great nightlife as well",shopping,LOCATION1,Positive
+665,473,375,"LOCATION1, it is a great place to go out for the day to shop or see a film, and has great nightlife as well",nightlife,LOCATION1,Positive
+666,474,266,"LOCATION1, posh and down to earth at the same time",general,LOCATION1,Positive
+667,474,266,"LOCATION1, posh and down to earth at the same time",price,LOCATION1,Negative
+668,475,245,"LOCATION1, where I live, is quite at the hub nowadays",transit-location,LOCATION1,Positive
+669,476,472,"LOCATION1, which has a lovely almost country village feel, and has a really cool bar called Zerodegrees which brews its own beer on site",nightlife,LOCATION1,Positive
+670,476,472,"LOCATION1, which has a lovely almost country village feel, and has a really cool bar called Zerodegrees which brews its own beer on site",general,LOCATION1,Positive
+671,477,719,LOCATION1/LOCATION2 road is a good area,general,LOCATION2,Positive
+672,477,719,LOCATION1/LOCATION2 road is a good area,general,LOCATION1,Positive
+673,478,210,"LOCATION1: Right, so yeah, it has its crime",safety,LOCATION1,Negative
+674,479,634,"LOCATION2 (Location - South East) - Expensive apartment LOCATION1 (Location- Central ) - For the rich and famous, expensive and central",price,LOCATION1,Negative
+675,479,634,"LOCATION2 (Location - South East) - Expensive apartment LOCATION1 (Location- Central ) - For the rich and famous, expensive and central",transit-location,LOCATION1,Positive
+676,479,634,"LOCATION2 (Location - South East) - Expensive apartment LOCATION1 (Location- Central ) - For the rich and famous, expensive and central",price,LOCATION2,Negative
+677,480,695,LOCATION2 / LOCATION1are good places if you need to be more central - again similar price tag,general,LOCATION2,Positive
+678,480,695,LOCATION2 / LOCATION1are good places if you need to be more central - again similar price tag,transit-location,LOCATION2,Positive
+679,480,695,LOCATION2 / LOCATION1are good places if you need to be more central - again similar price tag,transit-location,LOCATION1,Positive
+680,480,695,LOCATION2 / LOCATION1are good places if you need to be more central - again similar price tag,general,LOCATION1,Positive
+682,482,660,LOCATION2 and LOCATION1 are considered the 'nice' area's of London to live,live,LOCATION2,Positive
+683,482,660,LOCATION2 and LOCATION1 are considered the 'nice' area's of London to live,live,LOCATION1,Positive
+684,483,689,LOCATION2 and LOCATION1 are easily accessible from many areas,transit-location,LOCATION2,Positive
+685,483,689,LOCATION2 and LOCATION1 are easily accessible from many areas,transit-location,LOCATION1,Positive
+686,484,703,"LOCATION2 and LOCATION1 are more areas to look if you want to settle down with a family , due to good schools , more green space , and being safer because they are further out ( Zones 4 , 5 and 6 ) , all these things are useless to a single 18 yo",safety,LOCATION1,Positive
+687,484,703,"LOCATION2 and LOCATION1 are more areas to look if you want to settle down with a family , due to good schools , more green space , and being safer because they are further out ( Zones 4 , 5 and 6 ) , all these things are useless to a single 18 yo",green-nature,LOCATION2,Positive
+688,484,703,"LOCATION2 and LOCATION1 are more areas to look if you want to settle down with a family , due to good schools , more green space , and being safer because they are further out ( Zones 4 , 5 and 6 ) , all these things are useless to a single 18 yo",green-nature,LOCATION1,Positive
+689,484,703,"LOCATION2 and LOCATION1 are more areas to look if you want to settle down with a family , due to good schools , more green space , and being safer because they are further out ( Zones 4 , 5 and 6 ) , all these things are useless to a single 18 yo",transit-location,LOCATION2,Negative
+690,484,703,"LOCATION2 and LOCATION1 are more areas to look if you want to settle down with a family , due to good schools , more green space , and being safer because they are further out ( Zones 4 , 5 and 6 ) , all these things are useless to a single 18 yo",transit-location,LOCATION1,Negative
+691,484,703,"LOCATION2 and LOCATION1 are more areas to look if you want to settle down with a family , due to good schools , more green space , and being safer because they are further out ( Zones 4 , 5 and 6 ) , all these things are useless to a single 18 yo",safety,LOCATION2,Positive
+692,485,687,LOCATION2 and LOCATION1 are nice places,general,LOCATION1,Positive
+693,485,687,LOCATION2 and LOCATION1 are nice places,general,LOCATION2,Positive
+694,486,635,LOCATION2 and LOCATION1 areas are good alternatives as well,general,LOCATION2,Positive
+695,486,635,LOCATION2 and LOCATION1 areas are good alternatives as well,general,LOCATION1,Positive
+696,487,742,"LOCATION2 and the LOCATION1 are cool, and I am going to stick my neck out here and say that the rest of London is basically boring",general,LOCATION1,Positive
+697,487,742,"LOCATION2 and the LOCATION1 are cool, and I am going to stick my neck out here and say that the rest of London is basically boring",general,LOCATION2,Positive
+698,488,644,LOCATION2 is OK but LOCATION1 is also a much better place to shop which a large shopping centre called the Bentall centre,general,LOCATION2,Positive
+699,488,644,LOCATION2 is OK but LOCATION1 is also a much better place to shop which a large shopping centre called the Bentall centre,shopping,LOCATION1,Positive
+700,489,46,LOCATION2 is a 30 minute train ride from LOCATION1 Station in central London,transit-location,LOCATION1,Positive
+701,490,723,LOCATION2 is a good area as well as LOCATION1 but this area has some crime,general,LOCATION1,Positive
+702,490,723,LOCATION2 is a good area as well as LOCATION1 but this area has some crime,general,LOCATION2,Positive
+703,490,723,LOCATION2 is a good area as well as LOCATION1 but this area has some crime,safety,LOCATION1,Negative
+705,492,727,LOCATION2 is excellent for restaurants by LOCATION1 I think is tad cheaper,price,LOCATION1,Positive
+706,492,727,LOCATION2 is excellent for restaurants by LOCATION1 I think is tad cheaper,dining,LOCATION2,Positive
+707,493,673,"LOCATION2 is not a nice area , as is most of LOCATION1",general,LOCATION2,Negative
+708,493,673,"LOCATION2 is not a nice area , as is most of LOCATION1",general,LOCATION1,Negative
+709,494,636,LOCATION2 is not too bad LOCATION1is very upmarket and many artists live there,general,LOCATION1,Positive
+710,494,636,LOCATION2 is not too bad LOCATION1is very upmarket and many artists live there,general,LOCATION2,Positive
+711,495,685,LOCATION2 is reasonably safe and LOCATION1 is ok,safety,LOCATION1,Positive
+712,495,685,LOCATION2 is reasonably safe and LOCATION1 is ok,safety,LOCATION2,Positive
+713,496,692,LOCATION2 is worse and LOCATION1 is even worse than that,general,LOCATION1,Negative
+714,496,692,LOCATION2 is worse and LOCATION1 is even worse than that,general,LOCATION2,Negative
+716,498,731,LOCATION2 or LOCATION1 are the best places,general,LOCATION1,Positive
+717,498,731,LOCATION2 or LOCATION1 are the best places,general,LOCATION2,Positive
+719,500,728,"LOCATION2, LOCATION1 are bad news too",general,LOCATION1,Negative
+720,500,728,"LOCATION2, LOCATION1 are bad news too",general,LOCATION2,Negative
+721,501,716,Let's face it I can't afford LOCATION1 or LOCATION2 ha,price,LOCATION2,Negative
+722,501,716,Let's face it I can't afford LOCATION1 or LOCATION2 ha,price,LOCATION1,Negative
+725,504,5,"Live in LOCATION1LOCATION1Mostly young people, nice area can be expensive though",general,LOCATION1,Positive
+726,504,5,"Live in LOCATION1LOCATION1Mostly young people, nice area can be expensive though",price,LOCATION1,Negative
+727,505,108,"London is expensive, LOCATION1 especially so",price,LOCATION1,Negative
+728,506,199,Look for a place to live in LOCATION1 aswell,live,LOCATION1,Positive
+729,507,392,Look on Hostel sitesI like LOCATION1,general,LOCATION1,Positive
+731,509,396,Make ure you take a visit to LOCATION1,touristy,LOCATION1,Positive
+732,510,480,"Many of the key tourist attractions, the residence of the Queen (Head of State) are all in a district-level municipality called the LOCATION1",touristy,LOCATION1,Positive
+733,511,205,"Many parts of LOCATION1, particularly in the north, have been well known as hotspots for drug dealing",safety,LOCATION1,Negative
+736,514,174,Most are very expensive to rent or buy even the grotty little flats and bedsits in LOCATION1,price,LOCATION1,Negative
+737,515,149,Most of London is still pretty expensive my sister lives in LOCATION1 and it is cheaper,price,LOCATION1,Positive
+742,520,397,"My friend was saying LOCATION1 is good , but the commute to Central London is very painful",general,LOCATION1,Positive
+743,520,397,"My friend was saying LOCATION1 is good , but the commute to Central London is very painful",transit-location,LOCATION1,Negative
+744,521,61,"My hometown is LOCATION1, in SW London literally a walk into LOCATION1",transit-location,LOCATION1,Positive
+747,524,577,"NW of LOCATION1 is LOCATION1, and that's pretty nice",general,LOCATION1,Positive
+748,525,656,Near pretty rough neighbourhoods like LOCATION1 and LOCATION2,safety,LOCATION2,Negative
+749,525,656,Near pretty rough neighbourhoods like LOCATION1 and LOCATION2,safety,LOCATION1,Negative
+750,526,578,Near to LOCATION1 are nicer areas within the London boroughs of Bexley and bromley,general,LOCATION1,Positive
+751,527,627,"Nearby is LOCATION1 which has Hampstead Heath, a HUGE park and tons of playgrounds for kids",green-nature,LOCATION1,Positive
+752,528,675,Nearer to London is LOCATION2 or LOCATION1,transit-location,LOCATION1,Positive
+753,528,675,Nearer to London is LOCATION2 or LOCATION1,transit-location,LOCATION2,Positive
+763,538,150,"Of the 3 areas you mentioned, LOCATION1 is the safest ",safety,LOCATION1,Positive
+764,539,231,Old LOCATION1 around the outlet to the tunnel is pretty grotty,general,LOCATION1,Negative
+765,540,122,"On the other hand i personally live in LOCATION1 , very nice area, and i personally feel that it's allot better than LOCATION2",general,LOCATION1,Positive
+766,541,454,One nice thing is that the Tube goes to LOCATION1 so you can easily get in to central LondonI was born near LOCATION1,transit-location,LOCATION1,Positive
+767,542,402,One of the main areas where Irish people used to live is LOCATION1,multicultural,LOCATION1,Positive
+769,544,142,One place I could easily identify is LOCATION1 which is on Jubilee line,transit-location,LOCATION1,Positive
+770,545,141,"Or Living in LOCATION1, crime is not high and the location is very 'cushy'",safety,LOCATION1,Positive
+771,546,255,Or try LOCATION1 where you can get more for your money,general,LOCATION1,Positive
+772,546,255,Or try LOCATION1 where you can get more for your money,price,LOCATION1,Positive
+774,548,632,Out of the two I'd prefer LOCATION1 to LOCATION1,general,LOCATION1,Positive
+775,549,318,"Out of these i would say, LOCATION1 (upper)",general,LOCATION1,Positive
+776,550,339,Outside of office hours it 's nearly deserted LOCATION1 is quite the senic area,green-nature,LOCATION1,Positive
+777,551,228,"Parts of LOCATION1 are cheaper and nice for the money, but on the wrong side of the river",price,LOCATION1,Positive
+779,553,745,"People are saying LOCATION2 and LOCATION1 etc, but we warned that aint all good",general,LOCATION1,Negative
+780,553,745,"People are saying LOCATION2 and LOCATION1 etc, but we warned that aint all good",general,LOCATION2,Negative
+783,556,100,"Personally , I do n't think LOCATION1 is that bad",general,LOCATION1,Positive
+784,557,401,"Personally I prefer LOCATION1 - greener, better restaurants and shopping;better public transport too",dining,LOCATION1,Positive
+785,557,401,"Personally I prefer LOCATION1 - greener, better restaurants and shopping;better public transport too",shopping,LOCATION1,Positive
+786,557,401,"Personally I prefer LOCATION1 - greener, better restaurants and shopping;better public transport too",transit-location,LOCATION1,Positive
+787,557,401,"Personally I prefer LOCATION1 - greener, better restaurants and shopping;better public transport too",general,LOCATION1,Positive
+788,557,401,"Personally I prefer LOCATION1 - greener, better restaurants and shopping;better public transport too",green-nature,LOCATION1,Positive
+789,558,667,Personally I think all of LOCATION1 is too crowded to I chose to live in LOCATION2 (SE London),live,LOCATION2,Positive
+790,558,667,Personally I think all of LOCATION1 is too crowded to I chose to live in LOCATION2 (SE London),quiet,LOCATION1,Negative
+792,560,639,"Personally, I would go for LOCATION2 or LOCATION1",general,LOCATION1,Positive
+793,560,639,"Personally, I would go for LOCATION2 or LOCATION1",general,LOCATION2,Positive
+794,561,293,"Personally, having lived there, I would say LOCATION1 was a little more 'upmarket' but watch out for the planes - a lot of houses in LOCATION1 are on the landing flightpath into heathrow which can be very irritating at around 4.30/5.00 in the morning, especially in summer",general,LOCATION1,Positive
+795,561,293,"Personally, having lived there, I would say LOCATION1 was a little more 'upmarket' but watch out for the planes - a lot of houses in LOCATION1 are on the landing flightpath into heathrow which can be very irritating at around 4.30/5.00 in the morning, especially in summer",quiet,LOCATION1,Negative
+796,562,320,Places near LOCATION1 NOT to live,live,LOCATION1,Negative
+805,571,746,"Somebody else on here was mentioning the boroughs of LOCATION1 and LOCATION2 as being cheap, affordable and safe, and I agree with that",safety,LOCATION2,Positive
+806,571,746,"Somebody else on here was mentioning the boroughs of LOCATION1 and LOCATION2 as being cheap, affordable and safe, and I agree with that",price,LOCATION1,Positive
+807,571,746,"Somebody else on here was mentioning the boroughs of LOCATION1 and LOCATION2 as being cheap, affordable and safe, and I agree with that",price,LOCATION2,Positive
+808,571,746,"Somebody else on here was mentioning the boroughs of LOCATION1 and LOCATION2 as being cheap, affordable and safe, and I agree with that",safety,LOCATION1,Positive
+809,572,657,South is popular LOCATION1 down to LOCATION2 - good transport links with Brighton and the south coast at the other end,transit-location,LOCATION2,Positive
+810,572,657,South is popular LOCATION1 down to LOCATION2 - good transport links with Brighton and the south coast at the other end,general,LOCATION2,Positive
+811,572,657,South is popular LOCATION1 down to LOCATION2 - good transport links with Brighton and the south coast at the other end,general,LOCATION1,Positive
+812,572,657,South is popular LOCATION1 down to LOCATION2 - good transport links with Brighton and the south coast at the other end,transit-location,LOCATION1,Positive
+814,574,683,Stay away from LOCATION1it's where everyone gets stabbedWHATEVER YOU DO DON'T GO TO LOCATION2 AT NIGHT,safety,LOCATION1,Negative
+815,574,683,Stay away from LOCATION1it's where everyone gets stabbedWHATEVER YOU DO DON'T GO TO LOCATION2 AT NIGHT,general,LOCATION2,Negative
+816,574,683,Stay away from LOCATION1it's where everyone gets stabbedWHATEVER YOU DO DON'T GO TO LOCATION2 AT NIGHT,general,LOCATION1,Negative
+817,575,552,Stay away from LOCATION1 and the housing estates which are the poorer run-down areas,general,LOCATION1,Negative
+820,578,426,"Take a rivercruise to LOCATION1, nice market, bars, and GMT",nightlife,LOCATION1,Positive
+821,578,426,"Take a rivercruise to LOCATION1, nice market, bars, and GMT",shopping,LOCATION1,Positive
+822,579,560,Take the Tavistock Square bus and go to LOCATION1 - plenty cheap there,price,LOCATION1,Positive
+824,581,663,"Thanks in advance for any adviceLOCATION2 and LOCATION1 are both very safe, leafy London boroughs with a wide range of good restaurants, bars and clubs as well as excellent transport links to the centre (we don't say 'downtown' here)",dining,LOCATION1,Positive
+825,581,663,"Thanks in advance for any adviceLOCATION2 and LOCATION1 are both very safe, leafy London boroughs with a wide range of good restaurants, bars and clubs as well as excellent transport links to the centre (we don't say 'downtown' here)",green-nature,LOCATION1,Positive
+826,581,663,"Thanks in advance for any adviceLOCATION2 and LOCATION1 are both very safe, leafy London boroughs with a wide range of good restaurants, bars and clubs as well as excellent transport links to the centre (we don't say 'downtown' here)",dining,LOCATION2,Positive
+827,581,663,"Thanks in advance for any adviceLOCATION2 and LOCATION1 are both very safe, leafy London boroughs with a wide range of good restaurants, bars and clubs as well as excellent transport links to the centre (we don't say 'downtown' here)",green-nature,LOCATION2,Positive
+828,581,663,"Thanks in advance for any adviceLOCATION2 and LOCATION1 are both very safe, leafy London boroughs with a wide range of good restaurants, bars and clubs as well as excellent transport links to the centre (we don't say 'downtown' here)",nightlife,LOCATION2,Positive
+829,581,663,"Thanks in advance for any adviceLOCATION2 and LOCATION1 are both very safe, leafy London boroughs with a wide range of good restaurants, bars and clubs as well as excellent transport links to the centre (we don't say 'downtown' here)",nightlife,LOCATION1,Positive
+830,581,663,"Thanks in advance for any adviceLOCATION2 and LOCATION1 are both very safe, leafy London boroughs with a wide range of good restaurants, bars and clubs as well as excellent transport links to the centre (we don't say 'downtown' here)",transit-location,LOCATION2,Positive
+831,581,663,"Thanks in advance for any adviceLOCATION2 and LOCATION1 are both very safe, leafy London boroughs with a wide range of good restaurants, bars and clubs as well as excellent transport links to the centre (we don't say 'downtown' here)",transit-location,LOCATION1,Positive
+834,584,161,The LOCATION1 area is a bit rough,safety,LOCATION1,Negative
+837,587,440,"The above answerer is right, the other side of LOCATION1 is much worse, but LOCATION1 Park is not amazing",general,LOCATION1,Negative
+840,590,171,"The area around LOCATION1 is OK sort of bohemian, middle-class area with some nice houses and interesting stores and restaurants",general,LOCATION1,Positive
+841,590,171,"The area around LOCATION1 is OK sort of bohemian, middle-class area with some nice houses and interesting stores and restaurants",dining,LOCATION1,Positive
+842,590,171,"The area around LOCATION1 is OK sort of bohemian, middle-class area with some nice houses and interesting stores and restaurants",shopping,LOCATION1,Positive
+843,591,386,"The area around LOCATION1 is very nice with pubs, cafes and shops nearby Victoria Park Road is said to be the longest one way thoroughfare in London",general,LOCATION1,Positive
+844,591,386,"The area around LOCATION1 is very nice with pubs, cafes and shops nearby Victoria Park Road is said to be the longest one way thoroughfare in London",shopping,LOCATION1,Positive
+845,591,386,"The area around LOCATION1 is very nice with pubs, cafes and shops nearby Victoria Park Road is said to be the longest one way thoroughfare in London",nightlife,LOCATION1,Positive
+846,592,503,The area around LOCATION1 is worth a look now ( it used to be hell on earth until very recently),general,LOCATION1,Positive
+848,594,187,The best clubs in London are definitely in LOCATION1 (don't be put off by the fact Amy Winehouse lives there),nightlife,LOCATION1,Positive
+849,595,693,The best place for gay/lesbian bars are either around Oxford Street in LOCATION1 or down in LOCATION2 in South London,nightlife,LOCATION2,Positive
+850,595,693,The best place for gay/lesbian bars are either around Oxford Street in LOCATION1 or down in LOCATION2 in South London,nightlife,LOCATION1,Positive
+851,596,726,The best place you can live is LOCATION2 and LOCATION1 in Surrey,live,LOCATION1,Positive
+852,596,726,The best place you can live is LOCATION2 and LOCATION1 in Surrey,live,LOCATION2,Positive
+853,597,653,"The best places would be LOCATION2, LOCATION1",general,LOCATION1,Positive
+854,597,653,"The best places would be LOCATION2, LOCATION1",general,LOCATION2,Positive
+855,598,584,"The borough of LOCATION1 includes both the place where Tony Blair's family lives, and LOCATION1 (possibly the worst place in the world EVER)",general,LOCATION1,Negative
+857,600,732,The dangerous places i know are: LOCATION1 LOCATION2 Full of knife crime,safety,LOCATION2,Negative
+858,600,732,The dangerous places i know are: LOCATION1 LOCATION2 Full of knife crime,safety,LOCATION1,Negative
+860,602,334,"The location is great though, because you can get to virtually anywhere in London from LOCATION1 or by bus",transit-location,LOCATION1,Positive
+861,603,52,The main LOCATION1 Road is safeish because it is busy,safety,LOCATION1,Positive
+862,604,595,The main one to avoid is LOCATION1,general,LOCATION1,Negative
+863,605,725,The majority of wealthy families lived around LOCATION2 and In general the LOCATION1 was where the poorer lived,price,LOCATION1,Positive
+864,605,725,The majority of wealthy families lived around LOCATION2 and In general the LOCATION1 was where the poorer lived,price,LOCATION2,Negative
+865,606,665,The more expensive places are LOCATION2 and LOCATION1,price,LOCATION1,Negative
+866,606,665,The more expensive places are LOCATION2 and LOCATION1,price,LOCATION2,Negative
+867,607,563,The nicer streets in LOCATION1 (SE5) aren't that expensive especially the bit near LOCATION1 station,price,LOCATION1,Positive
+869,609,209,The only credible one would be LOCATION1That's the largest woodland in the London area,green-nature,LOCATION1,Positive
+870,610,457,The only negative thing about living in LOCATION1 that I can think of is that it is very expensive,price,LOCATION1,Negative
+872,612,284,"The reputation as London 's red light district is old-fashioned and no longer deserved , and LOCATION1 is very cosmopolitian and trendy with a high gay population",general,LOCATION1,Positive
+873,612,284,"The reputation as London 's red light district is old-fashioned and no longer deserved , and LOCATION1 is very cosmopolitian and trendy with a high gay population",multicultural,LOCATION1,Positive
+874,613,638,The safest boroughs across all crime categories are LOCATION2 and LOCATION1,safety,LOCATION1,Positive
+875,613,638,The safest boroughs across all crime categories are LOCATION2 and LOCATION1,safety,LOCATION2,Positive
+876,614,694,The towns of LOCATION2 and LOCATION1 are also both lovely towns,general,LOCATION1,Positive
+877,614,694,The towns of LOCATION2 and LOCATION1 are also both lovely towns,general,LOCATION2,Positive
+879,616,422,"The underground and busy market places such as LOCATION1, can have its share of pick-pockets and muggers just like anywhere else has",safety,LOCATION1,Negative
+880,617,550,The very centre of London (places like LOCATION1) are very well off and there are lower levels of crime,transit-location,LOCATION1,Positive
+881,617,550,The very centre of London (places like LOCATION1) are very well off and there are lower levels of crime,safety,LOCATION1,Negative
+882,617,550,The very centre of London (places like LOCATION1) are very well off and there are lower levels of crime,price,LOCATION1,Negative
+884,619,81,"There are 27,000 Portuguese people living in LOCATION1",multicultural,LOCATION1,Positive
+885,620,337,There are VERY nice parts in LOCATION1 too,general,LOCATION1,Positive
+888,623,529,"There are many areas of LOCATION1 with quite large Indian populations, and you may find that you money goes further there",price,LOCATION1,Positive
+889,623,529,"There are many areas of LOCATION1 with quite large Indian populations, and you may find that you money goes further there",multicultural,LOCATION1,Positive
+890,624,200,There are many nice places in south and LOCATION1 in particular,general,LOCATION1,Positive
+892,626,176,There are some great places to live nearLOCATION1LOCATION1 but without the higher property prices,live,LOCATION1,Positive
+893,626,176,There are some great places to live nearLOCATION1LOCATION1 but without the higher property prices,price,LOCATION1,Positive
+894,627,439,"There are three separate lines of the underground network that go though LOCATION1 station, so it's quite well connected",transit-location,LOCATION1,Positive
+895,628,315,There aren't villages in London unless you mean LOCATION1 Village which is not Central London,transit-location,LOCATION1,Negative
+896,629,233,"There is a 24 hour bus, the 176, which goes to Oxford StThere are other buses which go to LOCATION1",transit-location,LOCATION1,Positive
+897,630,539,There is a large Ghanian community who live and work in the LOCATION1 area,multicultural,LOCATION1,Positive
+899,632,413,"There is a thriving Irish community in and around LOCATION1, LOCATION1",multicultural,LOCATION1,Positive
+903,636,327,"There's a Leisure park in LOCATION1 nearby - it has a bowling alley, a big swimming pool, a cinema and restaurants",dining,LOCATION1,Positive
+904,637,355,"There's a lot of drug dens, prostitution and crime in LOCATION1 - so yep, great",safety,LOCATION1,Negative
+905,638,280,There's a pub right outside LOCATION1 station called the Swan that was always a really good time -,nightlife,LOCATION1,Positive
+907,640,730,Therefore probably avoid places like LOCATION1 and LOCATION2,general,LOCATION2,Negative
+908,640,730,Therefore probably avoid places like LOCATION1 and LOCATION2,general,LOCATION1,Negative
+909,641,99,"Theres a great shop in LOCATION1tesco, believe it or not",shopping,LOCATION1,Positive
+910,642,34,"These are some of the wealthiest areas of London, and many of them, like LOCATION1, are primarily residential",price,LOCATION1,Negative
+911,643,333,"These days, who could afford to live in LOCATION1 except the celebrities and the riches",price,LOCATION1,Negative
+913,645,659,They have a housing system for their schoolsso I don't know if it includes pricey areas like LOCATION1 and LOCATION2,price,LOCATION2,Negative
+914,645,659,They have a housing system for their schoolsso I don't know if it includes pricey areas like LOCATION1 and LOCATION2,price,LOCATION1,Negative
+916,647,481,This article I read actually states that in recent years LOCATION1 has become very upscale with increasingly rising property values,general,LOCATION1,Positive
+917,647,481,This article I read actually states that in recent years LOCATION1 has become very upscale with increasingly rising property values,price,LOCATION1,Negative
+918,648,343,Time out market guide~ LOCATION1 is becoming quite a good place to stay,general,LOCATION1,Positive
+919,649,647,Try LOCATION2 or LOCATION1 for some good curry and Indianan culture,dining,LOCATION1,Positive
+920,649,647,Try LOCATION2 or LOCATION1 for some good curry and Indianan culture,multicultural,LOCATION2,Positive
+921,649,647,Try LOCATION2 or LOCATION1 for some good curry and Indianan culture,multicultural,LOCATION1,Positive
+922,649,647,Try LOCATION2 or LOCATION1 for some good curry and Indianan culture,dining,LOCATION2,Positive
+923,650,688,Try SW/SE or south but be care full you check (not LOCATION2 or LOCATION1),general,LOCATION1,Negative
+924,650,688,Try SW/SE or south but be care full you check (not LOCATION2 or LOCATION1),general,LOCATION2,Negative
+925,651,680,Try looking at LOCATION2 or LOCATION1 boroughs,general,LOCATION1,Positive
+926,651,680,Try looking at LOCATION2 or LOCATION1 boroughs,general,LOCATION2,Positive
+928,653,483,"Unlike some places that become pricey because they are trendy, LOCATION1 is understated cool",price,LOCATION1,Positive
+929,653,483,"Unlike some places that become pricey because they are trendy, LOCATION1 is understated cool",general,LOCATION1,Positive
+931,655,203,"We parked in a side street in LOCATION1 once; we were gone five minutes, came back and our hubcaps had been stollen",safety,LOCATION1,Negative
+932,656,538,"Well , LOCATION1 is pretty dreadful",general,LOCATION1,Negative
+933,657,260,"Well yes, if you can afford to live in LOCATION1 then it would be great but very very expensive",live,LOCATION1,Positive
+934,657,260,"Well yes, if you can afford to live in LOCATION1 then it would be great but very very expensive",price,LOCATION1,Negative
+936,659,696,When I lived in London I really wanted to live at LOCATION1 or LOCATION2 but couldn't find an affordable house at the time,price,LOCATION2,Negative
+937,659,696,When I lived in London I really wanted to live at LOCATION1 or LOCATION2 but couldn't find an affordable house at the time,live,LOCATION2,Positive
+938,659,696,When I lived in London I really wanted to live at LOCATION1 or LOCATION2 but couldn't find an affordable house at the time,live,LOCATION1,Positive
+939,659,696,When I lived in London I really wanted to live at LOCATION1 or LOCATION2 but couldn't find an affordable house at the time,price,LOCATION1,Negative
+941,661,416,"With the LOCATION1 where Big Ben, Oxford Street and Buckingham Palace are all located being the most dangerous",safety,LOCATION1,Negative
+944,664,678,You can also walk to LOCATION1 or LOCATION2 which both have cool bars and restaurants,nightlife,LOCATION1,Positive
+945,664,678,You can also walk to LOCATION1 or LOCATION2 which both have cool bars and restaurants,dining,LOCATION2,Positive
+946,664,678,You can also walk to LOCATION1 or LOCATION2 which both have cool bars and restaurants,nightlife,LOCATION2,Positive
+947,664,678,You can also walk to LOCATION1 or LOCATION2 which both have cool bars and restaurants,dining,LOCATION1,Positive
+949,666,156,You could also look at LOCATION1 in Surrey which is about 20 minutes to LOCATION2 ,general,LOCATION1,Positive
+950,666,156,You could also look at LOCATION1 in Surrey which is about 20 minutes to LOCATION2 ,transit-location,LOCATION1,Positive
+951,667,186,You could also try LOCATION1,general,LOCATION1,Positive
+952,668,548,You could live in the LOCATION1 area,live,LOCATION1,Positive
+953,669,611,"You could look further out at RobertsbridgeLOCATION1 near the station Its in West London , decent shopping, good transport links, loads of parks for your kids",green-nature,LOCATION1,Positive
+954,669,611,"You could look further out at RobertsbridgeLOCATION1 near the station Its in West London , decent shopping, good transport links, loads of parks for your kids",transit-location,LOCATION1,Positive
+955,669,611,"You could look further out at RobertsbridgeLOCATION1 near the station Its in West London , decent shopping, good transport links, loads of parks for your kids",shopping,LOCATION1,Positive
+956,670,711,You could take in the above suggestions of LOCATION1 or LOCATION2 if you are a millionaire,price,LOCATION1,Negative
+957,670,711,You could take in the above suggestions of LOCATION1 or LOCATION2 if you are a millionaire,price,LOCATION2,Negative
+958,671,649,You could try LOCATION1 but keep away from the LOCATION2,general,LOCATION2,Negative
+959,671,649,You could try LOCATION1 but keep away from the LOCATION2,general,LOCATION1,Positive
+962,674,661,"You might also like to give places like LOCATION1 and LOCATION2 a try, especially along their river fronts",green-nature,LOCATION2,Positive
+963,674,661,"You might also like to give places like LOCATION1 and LOCATION2 a try, especially along their river fronts",general,LOCATION2,Positive
+964,674,661,"You might also like to give places like LOCATION1 and LOCATION2 a try, especially along their river fronts",general,LOCATION1,Positive
+965,674,661,"You might also like to give places like LOCATION1 and LOCATION2 a try, especially along their river fronts",green-nature,LOCATION1,Positive
+967,676,737,"You might want to consider LOCATION1 or parts of LOCATION2,all up and coming areas and,are relatively quite pleasant and affordable areas to live in and not too far in terms of commuting distance to central London",price,LOCATION2,Positive
+968,676,737,"You might want to consider LOCATION1 or parts of LOCATION2,all up and coming areas and,are relatively quite pleasant and affordable areas to live in and not too far in terms of commuting distance to central London",general,LOCATION2,Positive
+969,676,737,"You might want to consider LOCATION1 or parts of LOCATION2,all up and coming areas and,are relatively quite pleasant and affordable areas to live in and not too far in terms of commuting distance to central London",general,LOCATION1,Positive
+970,676,737,"You might want to consider LOCATION1 or parts of LOCATION2,all up and coming areas and,are relatively quite pleasant and affordable areas to live in and not too far in terms of commuting distance to central London",transit-location,LOCATION1,Positive
+971,676,737,"You might want to consider LOCATION1 or parts of LOCATION2,all up and coming areas and,are relatively quite pleasant and affordable areas to live in and not too far in terms of commuting distance to central London",transit-location,LOCATION2,Positive
+972,676,737,"You might want to consider LOCATION1 or parts of LOCATION2,all up and coming areas and,are relatively quite pleasant and affordable areas to live in and not too far in terms of commuting distance to central London",price,LOCATION1,Positive
+973,677,547,"You should move to LOCATION1 - it's clean, friendly, not as expensive as Central London and has the correct balance between suburbian and London life",general,LOCATION1,Positive
+974,677,547,"You should move to LOCATION1 - it's clean, friendly, not as expensive as Central London and has the correct balance between suburbian and London life",price,LOCATION1,Positive
+976,679,714,You'll love LOCATION2 and LOCATION1,general,LOCATION1,Positive
+977,679,714,You'll love LOCATION2 and LOCATION1,general,LOCATION2,Positive
+979,681,169,"Your other options is to go north - LOCATION1, say",general,LOCATION1,Positive
+980,682,362,"Your rent goes further in LOCATION1 than many parts of the centre, west and north",price,LOCATION1,Positive
+982,684,353,another place to go is LOCATION1,general,LOCATION1,Positive
+983,685,674,as for LOCATION2 and LOCATION1i normally avoid itfull of tourists and over priced,touristy,LOCATION1,Positive
+984,685,674,as for LOCATION2 and LOCATION1i normally avoid itfull of tourists and over priced,general,LOCATION1,Negative
+985,685,674,as for LOCATION2 and LOCATION1i normally avoid itfull of tourists and over priced,general,LOCATION2,Negative
+986,685,674,as for LOCATION2 and LOCATION1i normally avoid itfull of tourists and over priced,price,LOCATION2,Negative
+987,685,674,as for LOCATION2 and LOCATION1i normally avoid itfull of tourists and over priced,price,LOCATION1,Negative
+988,685,674,as for LOCATION2 and LOCATION1i normally avoid itfull of tourists and over priced,touristy,LOCATION2,Positive
+989,686,682,"avoid LOCATION2 and LOCATION1 , the rest is ok to good",general,LOCATION1,Negative
+990,686,682,"avoid LOCATION2 and LOCATION1 , the rest is ok to good",general,LOCATION2,Negative
+992,688,399,check it out LOCATION1's not a bad place either,general,LOCATION1,Positive
+993,689,722,"districts including LOCATION2 and LOCATION1 are also in relatively the same position, problems but they are cheaper",safety,LOCATION1,Negative
+994,689,722,"districts including LOCATION2 and LOCATION1 are also in relatively the same position, problems but they are cheaper",price,LOCATION2,Positive
+995,689,722,"districts including LOCATION2 and LOCATION1 are also in relatively the same position, problems but they are cheaper",price,LOCATION1,Positive
+996,689,722,"districts including LOCATION2 and LOCATION1 are also in relatively the same position, problems but they are cheaper",safety,LOCATION2,Negative
+1000,693,92,having lived in the LOCATION1 for a whileI have found that it can be a lovely area,live,LOCATION1,Positive
+1001,693,92,having lived in the LOCATION1 for a whileI have found that it can be a lovely area,general,LOCATION1,Positive
+1002,694,614,head to LOCATION1 if historical buildings and antique markets are more your cup of tea,shopping,LOCATION1,Positive
+1005,697,706,i have lived in London my whole life and have lived all over(LOCATION1 LOCATION2) are definitely my favourites,general,LOCATION2,Positive
+1006,697,706,i have lived in London my whole life and have lived all over(LOCATION1 LOCATION2) are definitely my favourites,general,LOCATION1,Positive
+1007,698,238,"i live by LOCATION1,safe as houses and great pubs/restaurants along the river you'll love it there :)",safety,LOCATION1,Positive
+1008,698,238,"i live by LOCATION1,safe as houses and great pubs/restaurants along the river you'll love it there :)",dining,LOCATION1,Positive
+1009,698,238,"i live by LOCATION1,safe as houses and great pubs/restaurants along the river you'll love it there :)",nightlife,LOCATION1,Positive
+1010,699,545,i live in LOCATION1 and LOCATION1 isn't as bad as everyone thinks and the houses are beautiful,general,LOCATION1,Positive
+1011,700,25,"i live in LOCATION1, and walk into central London (3 miles) all the time",transit-location,LOCATION1,Positive
+1012,701,193,i lived in LOCATION1 for a time during my stay there so nice,general,LOCATION1,Positive
+1014,703,664,"if I had enough money, I would definitely live in LOCATION2 or LOCATION1",price,LOCATION2,Negative
+1015,703,664,"if I had enough money, I would definitely live in LOCATION2 or LOCATION1",live,LOCATION1,Positive
+1016,703,664,"if I had enough money, I would definitely live in LOCATION2 or LOCATION1",live,LOCATION2,Positive
+1017,703,664,"if I had enough money, I would definitely live in LOCATION2 or LOCATION1",price,LOCATION1,Negative
+1018,704,4,"if you can afford it , LOCATION1 is a lovely area",general,LOCATION1,Positive
+1019,704,4,"if you can afford it , LOCATION1 is a lovely area",price,LOCATION1,Negative
+1020,705,115,if you fancy going North try LOCATION1,general,LOCATION1,Positive
+1021,706,252,"if you want toshop I would recommend Westfield which is located in LOCATION1, West London",shopping,LOCATION1,Positive
+1022,707,501,"im not looking to move solely based on the commute everyday as I wont be going into London daily , just if I ever wanted to go out in London I know I can jump on a train quite easily LOCATION1 is just outside London which is only 20 minutes away by frequent fast train",transit-location,LOCATION1,Positive
+1024,709,101,in London outskirts ( south of London ) there are 2 nice area's more affordable than LOCATION2 like LOCATION1,transit-location,LOCATION1,Negative
+1025,709,101,in London outskirts ( south of London ) there are 2 nice area's more affordable than LOCATION2 like LOCATION1,price,LOCATION1,Positive
+1026,710,380,its so close to LOCATION2 there would be loads of bankers staying on the LOCATION1 which would push rent up high,price,LOCATION1,Negative
+1027,711,291,just don't live in LOCATION1,live,LOCATION1,Negative
+1030,714,738,lots of lovely scenery in LOCATION1 and LOCATION2,green-nature,LOCATION2,Positive
+1031,714,738,lots of lovely scenery in LOCATION1 and LOCATION2,green-nature,LOCATION1,Positive
+1032,715,15,maybe LOCATION1 which is the first stop of the central line and u have the forest to explore,green-nature,LOCATION1,Positive
+1033,715,15,maybe LOCATION1 which is the first stop of the central line and u have the forest to explore,transit-location,LOCATION1,Positive
+1034,716,290,most places in LOCATION1 is messed up,general,LOCATION1,Negative
+1035,717,651,my other favorites are LOCATION1 and LOCATION2,general,LOCATION2,Positive
+1036,717,651,my other favorites are LOCATION1 and LOCATION2,general,LOCATION1,Positive
+1037,718,360,no need to live in LOCATION1 which is generally less accessible,live,LOCATION1,Negative
+1038,718,360,no need to live in LOCATION1 which is generally less accessible,transit-location,LOCATION1,Negative
+1039,719,453,opinion - LOCATION1 is a hole to live in,live,LOCATION1,Negative
+1041,721,264,personally my favourite area is LOCATION1 but you need to be rich to live there,general,LOCATION1,Positive
+1042,721,264,personally my favourite area is LOCATION1 but you need to be rich to live there,price,LOCATION1,Negative
+1043,722,367,quiet suburban areas with good transport links like LOCATION1 are highly sought after and therefore expensive,general,LOCATION1,Positive
+1044,722,367,quiet suburban areas with good transport links like LOCATION1 are highly sought after and therefore expensive,transit-location,LOCATION1,Positive
+1045,722,367,quiet suburban areas with good transport links like LOCATION1 are highly sought after and therefore expensive,quiet,LOCATION1,Positive
+1046,722,367,quiet suburban areas with good transport links like LOCATION1 are highly sought after and therefore expensive,price,LOCATION1,Negative
+1048,724,42,"some of those streets above LOCATION1 are quite nice but maybe be careful how late at night you walk down from the tube, LOCATION1 tube at night can be particlarly nasty",general,LOCATION1,Positive
+1049,724,42,"some of those streets above LOCATION1 are quite nice but maybe be careful how late at night you walk down from the tube, LOCATION1 tube at night can be particlarly nasty",safety,LOCATION1,Negative
+1050,725,114,tTry LOCATION1 NW10. It will fit in your budget,general,LOCATION1,Positive
+1051,725,114,tTry LOCATION1 NW10. It will fit in your budget,price,LOCATION1,Positive
+1054,728,431,the borough of LOCATION1 isquite quiet and boring,general,LOCATION1,Negative
+1055,728,431,the borough of LOCATION1 isquite quiet and boring,quiet,LOCATION1,Positive
+1056,729,583,"the ones around LOCATION1 are more expensive, generally further out from there cheaper, as long as on tube",price,LOCATION1,Positive
+1057,730,736,"there aren't many nice places in south east, mayb LOCATION2 and LOCATION1 isn't as bad as everyone thinks and the houses are beautiful",general,LOCATION1,Positive
+1058,730,736,"there aren't many nice places in south east, mayb LOCATION2 and LOCATION1 isn't as bad as everyone thinks and the houses are beautiful",general,LOCATION2,Positive
+1059,731,672,there is good shopping in nearby LOCATION1 and LOCATION2,shopping,LOCATION2,Positive
+1060,731,672,there is good shopping in nearby LOCATION1 and LOCATION2,shopping,LOCATION1,Positive
+1061,732,637,they are boroughs and I would imagine LOCATION2 or LOCATION1 would be the cheapest boroughs however they are also the roughest,price,LOCATION1,Positive
+1062,732,637,they are boroughs and I would imagine LOCATION2 or LOCATION1 would be the cheapest boroughs however they are also the roughest,safety,LOCATION1,Negative
+1063,732,637,they are boroughs and I would imagine LOCATION2 or LOCATION1 would be the cheapest boroughs however they are also the roughest,price,LOCATION2,Positive
+1064,732,637,they are boroughs and I would imagine LOCATION2 or LOCATION1 would be the cheapest boroughs however they are also the roughest,safety,LOCATION2,Negative
+1065,733,194,try areas such as LOCATION1 that have a trendy feel and are popular with young professionals,general,LOCATION1,Positive
+1066,734,106,two french students were brutally murdered in LOCATION1 on Sunday,safety,LOCATION1,Negative
+1068,736,365,we lived in LOCATION1 and liked how close it was to shops,shopping,LOCATION1,Positive
+1071,739,123,whatever happens in LOCATION1 is non-violent and relativly unislamic,safety,LOCATION1,Positive
+1074,742,712,you can live out as far as LOCATION1/LOCATION2 which is on the edge of Greater Londonand it only takes you about 20mins by train to commute right into Central London,transit-location,LOCATION2,Positive
+1075,742,712,you can live out as far as LOCATION1/LOCATION2 which is on the edge of Greater Londonand it only takes you about 20mins by train to commute right into Central London,transit-location,LOCATION1,Positive
+1078,745,507,"you live around the LOCATION1 station, there's a National Railway route that will take you directly to LOCATION1 in about 30 minutes",transit-location,LOCATION1,Positive
+1079,746,510,you'll LOVE LOCATION1,general,LOCATION1,Positive
